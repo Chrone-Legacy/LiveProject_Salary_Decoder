@@ -1,0 +1,1016 @@
+Employee_ID,Role ,years_exp,Current_CTC,Previous_CTC,Company,company_TYPE,Skills,Location,Education_Tier,Joining_Year,Work_Mode
+BLR0065,DS,6,49.4,32.4 LPA,Ola,Unicorn,"JIRA, JavaScript, Spring Boot, Figma, NumPy, Agile, Docker",HSR Layout,Tier-1,2022,Remote
+BLR0080,DevOps,0,9.7,,Walmart Labs,MNC,"Tableau, Python, Figma, JavaScript, TensorFlow",Electronic City,2,2024,Remote
+BLR0166,SDE Backend,6,"3,360,000",24.2 LPA,Postman,Mid-size,"Agile, Excel, GCP, MongoDB, Java, ML",Whitefield,Tier-1,2023,Hybrid
+BLR0219,SDE Frontend,8,41.4 LPA,30.3,Amazon India,MNC,"PyTorch, Redis, System Design",MG Road,Tier-2,2022,Work from Office
+BLR0491,Product Lead,5,"3,640,000",30.6 LPA,QuickPay AI,early-stage,"Tableau, Deep Learning, Agile",Whitefield,Tier-2,2023,Onsite
+BLR0904,Product Manager,4,32.1,22.0 LPA,QuickPay AI,early-stage,"Azure, JIRA, PostgreSQL, System Design, React, Figma",Indiranagar,Tier-2,2022,Hybrid
+BLR0030,Site Reliability Engineer,3,24.6,19.3 LPA,Capgemini,MNC,"Spring Boot, PyTorch, GCP, Docker, Azure",MG Road,Tier 1,2022,Onsite
+BLR0109,DA,5,21.7 LPA,17.7,Microsoft India,MNC,"React, Docker, Python",Bellandur,Tier-2,2023,Hybrid (3 days)
+BLR0067,DS,3,21.0,,Hasura,Mid-size,"Azure, Docker, JavaScript, SQL, TensorFlow",Electronic City,Tier 2,2023,WFH
+BLR0498,UI/UX,7,26.9 LPA,18.9,Hasura,Mid-size,"Azure, PowerBI, Kafka, Sketch, React, Tableau",Sarjapur,T3,2023,Hybrid
+BLR0539,DA,4,28.7 LPA,17.4 LPA,Unacademy,Unicorn,"GCP, MongoDB, Spring Boot, PostgreSQL, Node.js, Agile",Marathahalli,Tier-1,2023,Work from Office
+BLR0559,SDE-Frontend,1,13.0,,BrowserStack,Mid-size,"PostgreSQL, Microservices, Deep Learning",Electronic City,Tier-3,2024,Work from Office
+BLR0433,UI Designer,6,"2,800,000",18.5 LPA,FinNova,Early-stage,"Kafka, Deep Learning, Node.js, SQL, Redis, ML",Bellandur,Tier 1,2024,Remote
+BLR0989,ML Engineer,0,₹10.0 LPA,,Postman,Mid-size,"GCP, TensorFlow, Java, PyTorch",Outer Ring Road,T2,2024,Remote
+BLR0782,Product Manager,1,14.2,8.7 LPA,EdMint,Early-stage,"GCP, Tableau, JIRA, React, Python, NumPy",Indiranagar,T3,2023,Work from Office
+BLR0996,Frontend Dev,2,15.5 LPA,11.8,Microsoft India,MNC,"React, PyTorch, Pandas",MG Road,Tier 1,2023,Onsite
+BLR0703,Data Scientist,1,₹17.0 LPA,12.2,Google India,MNC,"Figma, PowerBI, JavaScript",Indiranagar,Tier 1,2024,Work from Office
+BLR0501,Site Reliability Engineer,2,"1,750,000",10.7,Google India,MNC,"Agile, PostgreSQL, JavaScript, Azure, Docker",Jayanagar,Tier-1,2022,Onsite
+BLR0810,UI Designer,0,10.4 LPA,,Cred,Unicorn,"GCP, JIRA, React, JavaScript, Kafka",,2,2024,Work from Office
+BLR0346,Data Scientist,2,17.1,11.3,AgriTech Labs,EARLY-STAGE,"System Design, Redis, React, Docker, PowerBI, TensorFlow, PyTorch",Whitefield,T2,2022,WFH
+BLR0121,Full Stack Engineer,1,15.2,10.8 LPA,Accenture,MNC,"Pandas, React, PowerBI, System Design, GCP, Figma",Outer Ring Road,Tier 2,2024,Hybrid (3 days)
+BLR0208,DA,0,₹5.9 LPA,,FinNova,Early-stage,"MongoDB, Docker, PyTorch, System Design",Marathahalli,T2,2024,Work from Office
+BLR0993,UI Designer,0,9.2,,Postman,Mid-size,"MongoDB, Spring Boot, GCP, Java, System Design, Python",Electronic City,1,2024,Hybrid
+BLR0628,SDE Backend,1,16.2,9.9,Wipro,MNC,"NumPy, Kubernetes, Deep Learning, PostgreSQL",Marathahalli,2,2024,Remote
+BLR0699,Designer,0,7.1,,Hasura,Mid-size,"JIRA, Kafka, Pandas",Electronic City,Tier-2,2024,Remote
+BLR0398,Product Designer,4,19.0,14.5,AgriTech Labs,Early-stage,"SQL, JavaScript, Azure, Deep Learning",Sarjapur,T2,2021,WFH
+BLR0924,BA,6,"5,270,000",43.8 LPA,Flipkart,Unicorn,"JIRA, JavaScript, ML, AWS, NumPy, System Design, TensorFlow",MG Road,T1,2023,Remote
+BLR0779,Frontend Engineer,4,29.1,24.2 LPA,Zomato,Unicorn,"Sketch, Pandas, Microservices, Kafka, PowerBI, GCP, Node.js",Bellandur,T2,2024,Onsite
+BLR0429,Product Lead,3,34.1 LPA,20.6,Amazon India,MNC,"Deep Learning, Java, PowerBI, Spring Boot",Whitefield,T2,2023,Onsite
+BLR0220,SDE Frontend,5,28.5,20.1 LPA,Accenture,MNC,"PowerBI, System Design, Agile, Node.js",Jayanagar,Tier 2,2023,Onsite
+BLR0747,UI/UX,1,10.7,9.0 LPA,Cognizant,mnc,"GCP, Figma, React, Spring Boot, System Design, Redis, JavaScript",Bellandur,Tier 3,2023,Hybrid (3 days)
+BLR0079,BI Analyst,1,15.5,9.4,Cred,Unicorn,"TensorFlow, Azure, Figma, Node.js, Kafka, Kubernetes, PowerBI",MG Road,T1,2023,Work from Office
+BLR0649,Full Stack Engineer,4,22.0 LPA,16.8,TCS,MNC,"TensorFlow, Java, Tableau",Jayanagar,T3,2022,Work from Office
+BLR0979,Full Stack Engineer,2,23.7,15.7 LPA,Razorpay,unicorn,"Azure, MongoDB, Deep Learning, React, Agile",Bellandur,Tier-3,2024,WFH
+BLR0738,Backend Dev,4,21.9,17.7 LPA,Zoho,Mid-size,"Excel, Tableau, Docker, Redis, JIRA, Python, Node.js",Electronic City,3,2020,Work from Office
+BLR0039,BA,3,"2,450,000",17.1,Cognizant,MNC,"Deep Learning, PyTorch, Kubernetes, Figma, AWS, Spring Boot, Azure",Whitefield,Tier-2,2023,Hybrid
+BLR0601,Sr PM,3,42.2 LPA,34.8 LPA,Unacademy,Unicorn,"PostgreSQL, AWS, Agile, JIRA, MongoDB, Kubernetes, SQL",Electronic City,3,2021,Work from Office
+BLR0420,Data Scientist,6,34.7,23.2 LPA,MoEngage,Mid-size,"GCP, Docker, Figma, Azure, JIRA, Spring Boot, Agile",MG Road,Tier 1,2024,Hybrid
+BLR0841,FE,6,27.7 LPA,19.8,EdMint,Early-stage,"ML, MongoDB, GCP",Sarjapur,Tier-2,2022,Onsite
+BLR0185,DA,3,15.4,11.1 LPA,Cognizant,MNC,"Python, Kubernetes, Azure, Redis",Outer Ring Road,Tier-3,2022,Hybrid
+BLR0630,BA,3,"1,650,000",12.7,AgriTech Labs,Early-stage,"AWS, Node.js, JavaScript, SQL, Deep Learning, Redis",Whitefield,T3,2022,Hybrid (3 days)
+BLR0234,DS,0,₹11.2 LPA,,FinNova,Early-stage,"Spring Boot, Kubernetes, Figma, PyTorch, Azure, TensorFlow",Marathahalli,Tier-1,2024,WFH
+BLR0235,SDE-Backend,3,22.1,,Capgemini,mnc,"NumPy, PostgreSQL, System Design, SQL, AWS, Docker",Sarjapur,3,2023,WFH
+BLR0987,Site Reliability Engineer,1,"1,510,000",9.7 LPA,Cred,Unicorn,"Spring Boot, Azure, Excel",Bellandur,Tier 3,2023,Hybrid
+BLR0793,SDE Backend,3,20.9 LPA,14.9,HCL,MNC,"Tableau, React, AWS, Figma, Java, Node.js",Indiranagar,3,2021,Hybrid (3 days)
+BLR0055,Product Lead,3,36.1,23.6,Cred,Unicorn,"Excel, Java, Sketch, SQL, React, Node.js, PostgreSQL",Electronic City,2,2022,Hybrid (3 days)
+BLR0371,DS,7,46.1 LPA,35.7,MoEngage,Mid-size,"Spring Boot, PowerBI, JavaScript, Deep Learning",HSR Layout,T1,2023,Work from Office
+BLR0496,SDE Backend,4,₹27.6 LPA,23.4,EdMint,Early-stage,"Redis, PowerBI, Spring Boot, ML, AWS, Deep Learning, JIRA",HSR Layout,Tier-3,2020,Work from Office
+BLR0718,Full Stack Engineer,8,41.1 LPA,28.8,Hasura,MID-SIZE,"PyTorch, GCP, Kubernetes, TensorFlow",Koramangala,Tier 2,2022,Hybrid
+BLR0422,Data Analyst,3,17.0 LPA,13.6,QuickPay AI,Early-stage,"JavaScript, MongoDB, JIRA, Spring Boot, Deep Learning, System Design, GCP",HSR Layout,T2,2023,Onsite
+BLR0724,Frontend Engineer,0,₹8.1 LPA,,IBM,MNC,"Agile, Node.js, Sketch, AWS",Whitefield,T3,2024,WFH
+BLR0822,DevOps,3,28.3,17.3,Ola,unicorn,"Spring Boot, AWS, Figma, React, PyTorch, Excel",Bellandur,3,2022,Hybrid
+BLR0504,Data Scientist,2,"2,020,000",16.9,IBM,MNC,"Microservices, PostgreSQL, Java, Spring Boot, Figma, Kubernetes, SQL",HSR Layout,3,2024,Hybrid
+BLR0926,Data Analyst,8,24.8 LPA,15.4 LPA,DataMint,Early-stage,"Agile, PyTorch, Python, PowerBI, MongoDB, Kafka, Tableau",Indiranagar,3,2022,Onsite
+BLR0311,DS,7,36.6,22.9 LPA,Chargebee,Mid-size,"Redis, SQL, GCP, Figma, Java, PostgreSQL",Koramangala,Tier-2,2022,WFH
+BLR0555,BI Analyst,4,"1,920,000",11.6,Amazon India,MNC,"GCP, Figma, Tableau, Azure, Kubernetes",Indiranagar,2,2020,Hybrid
+BLR0809,Business Analyst,3,18.9,13.4 LPA,BrowserStack,Mid-size,"Docker, Deep Learning, Excel, Node.js, Redis, Java",Marathahalli,T2,2023,Onsite
+BLR0074,BA,7,39.1,28.4 LPA,TCS,MNC,"Microservices, ML, Spring Boot, Java, Tableau",MG Road,T3,2023,WFH
+BLR0009,SDE Frontend,6,32.2,23.1,Razorpay,Unicorn,"AWS, Tableau, React, MongoDB, PowerBI, Kafka",Koramangala,Tier-3,2024,Remote
+BLR0896,Business Analyst,4,23.4 LPA,19.6 LPA,Google India,MNC,"Figma, PowerBI, Docker, Deep Learning, GCP, Java, NumPy",Jayanagar,2,2021,Work from Office
+BLR0509,Backend Developer,0,"1,320,000",,Zoho,Mid-size,"Java, System Design, SQL, NumPy, AWS, ML, Tableau",MG Road,Tier-1,2024,Work from Office
+BLR0517,Site Reliability Engineer,1,15.1,10.4 LPA,Infosys,MNC,"AWS, Spring Boot, JavaScript, Tableau",HSR Layout,Tier-1,2024,Work from Office
+BLR0217,Business Analyst,6,38.3 LPA,27.7,Amazon India,mnc,"Deep Learning, MongoDB, Node.js, Python, Excel, ML, PostgreSQL",HSR Layout,Tier 2,2020,Hybrid (3 days)
+BLR0569,Backend Developer,1,12.5 LPA,9.1 LPA,Cognizant,MNC,"Excel, Kubernetes, Python, Redis, Sketch",MG Road,T3,2024,Remote
+BLR0320,Business Systems Analyst,0,"1,150,000",,IBM,MNC,"Deep Learning, ML, PowerBI",Electronic City,1,2024,Work from Office
+BLR0957,DS,1,19.1 LPA,11.6,Wipro,MNC,"Deep Learning, PowerBI, SQL",Bellandur,Tier-2,2023,Hybrid (3 days)
+BLR0585,Sr PM,1,20.5 LPA,15.7 LPA,Cognizant,MNC,"JavaScript, Figma, MongoDB, Kafka, Redis, Docker",MG Road,3,2023,Hybrid
+BLR0053,UI/UX,4,22.0 LPA,14.4 LPA,Zoho,Mid-size,"ML, Figma, Microservices, PostgreSQL, TensorFlow, MongoDB",Electronic City,2,2020,Work from Office
+BLR0216,Data Scientist,4,24.6 LPA,16.5,Wipro,MNC,"Pandas, Spring Boot, PyTorch",Jayanagar,Tier-2,2020,Hybrid
+BLR0331,UI/UX,6,28.3,23.0,TCS,MNC,"Tableau, Azure, Pandas",Whitefield,2,2020,WFH
+BLR0643,FE,3,23.2 LPA,18.6,Ola,Unicorn,"SQL, Docker, Excel, Kubernetes",Indiranagar,Tier 2,2021,Hybrid
+BLR0119,Data Science Engineer,1,"1,590,000",10.9,QuickPay AI,Early-stage,"PyTorch, GCP, ML",Indiranagar,Tier 1,2023,Hybrid
+BLR0821,FullStack,7,26.4 LPA,17.0,Hasura,Mid-size,"Python, Node.js, Figma",Sarjapur,Tier 3,2020,Work from Office
+BLR0753,BE,2,"2,190,000",17.0,Meesho,Unicorn,"NumPy, Azure, TensorFlow",Koramangala,Tier-1,2024,WFH
+BLR0655,Product Manager,1,₹20.6 LPA,,Hasura,Mid-size,"ML, Kafka, Azure, React, Python, Tableau, PowerBI",Outer Ring Road,Tier-2,2023,Remote
+BLR0294,Data Analyst,5,23.6 LPA,18.5 LPA,Hasura,Mid-size,"Node.js, Microservices, ML, Python",Bellandur,3,2020,Remote
+BLR0894,Product Lead,2,24.1,15.4 LPA,FinNova,Early-stage,"Excel, Figma, ML, PowerBI",HSR Layout,Tier-1,2022,Hybrid (3 days)
+BLR0642,BA,2,14.2,11.0 LPA,BrowserStack,Mid-size,"Excel, TensorFlow, JavaScript, Python",Whitefield,Tier 2,2022,Onsite
+BLR0682,UI Designer,4,24.1,19.1,Swiggy,Unicorn,"Agile, Azure, Java",Marathahalli,3,2021,Hybrid (3 days)
+BLR0401,Frontend Dev,2,18.7,13.7,Freshworks,Mid-size,"Docker, ML, Tableau, Node.js, TensorFlow, Microservices, Python",Jayanagar,1,2023,Hybrid
+BLR0800,Product Manager,7,42.5 LPA,34.7,Hasura,mid-size,"Pandas, PowerBI, Spring Boot, React, Kafka",HSR Layout,Tier-2,2020,Hybrid (3 days)
+BLR0406,Designer,4,27.3,18.8 LPA,Unacademy,Unicorn,"JIRA, MongoDB, System Design",HSR Layout,T3,2022,Work from Office
+BLR0477,Data Analyst,4,16.9,13.1 LPA,EdMint,Early-stage,"Agile, React, PyTorch, Sketch, MongoDB",Indiranagar,T1,2024,Onsite
+BLR0908,Frontend Engineer,5,25.2 LPA,21.0,Amazon India,MNC,"Kafka, Tableau, TensorFlow, Node.js, Kubernetes",Jayanagar,Tier 2,2021,Remote
+BLR0961,UI Designer,5,25.9 LPA,,TechCrush Labs,Early-stage,"Tableau, Kubernetes, MongoDB, PostgreSQL",Bellandur,Tier 1,2023,WFH
+BLR0751,Data Scientist,2,"1,939,999",16.3,Google India,MNC,"Tableau, MongoDB, Node.js, Microservices, JavaScript, Docker",Sarjapur,Tier-3,2024,WFH
+BLR0317,Sr PM,1,20.2 LPA,17.1 LPA,TechCrush Labs,Early-stage,"Node.js, NumPy, Pandas, JIRA, Kubernetes",HSR Layout,1,2023,Onsite
+BLR0281,Frontend Developer,7,30.4,20.9 LPA,TCS,MNC,"JavaScript, Spring Boot, React, Pandas, Figma",Outer Ring Road,Tier 3,2024,Remote
+BLR0438,Backend Engineer,6,34.6 LPA,26.7,Microsoft India,MNC,"PyTorch, ML, NumPy, Figma",MG Road,Tier 2,2024,Hybrid (3 days)
+BLR0071,Product Designer,6,26.3 LPA,18.7,Freshworks,Mid-size,"Tableau, Docker, Kubernetes, JavaScript",HSR Layout,2,2022,Onsite
+BLR0807,Designer,3,20.5 LPA,12.7 LPA,Hasura,Mid-size,"JavaScript, Pandas, NumPy, Microservices, Figma, System Design, JIRA",Bellandur,Tier 1,2021,Hybrid
+BLR0426,Data Analyst,3,16.7,13.8 LPA,DataMint,early-stage,"Python, Azure, TensorFlow, Deep Learning",Electronic City,T2,2024,Onsite
+BLR0659,Full Stack Engineer,1,15.7 LPA,,Hasura,Mid-size,"Figma, SQL, Deep Learning, ML",Electronic City,T2,2023,Hybrid
+BLR0941,Product Lead,1,26.4 LPA,18.8,Flipkart,Unicorn,"Sketch, System Design, MongoDB, Python, Redis",Indiranagar,Tier 3,2023,WFH
+BLR0328,Backend Developer,2,16.4,13.7 LPA,Capgemini,MNC,"Azure, Spring Boot, SQL, NumPy, Python, TensorFlow",Indiranagar,2,2022,Onsite
+BLR0149,UX Designer,10,38.3 LPA,32.3,MoEngage,Mid-size,"Pandas, Docker, Java, Deep Learning",Outer Ring Road,T3,2023,Hybrid (3 days)
+BLR0877,SDE Backend,3,"1,570,000",9.6,TechCrush Labs,Early-stage,"Spring Boot, Tableau, TensorFlow, Redis, JIRA",Koramangala,Tier 1,2023,Remote
+BLR0621,BI Analyst,4,19.0 LPA,12.5,Hasura,Mid-size,"Redis, Spring Boot, Figma, React, ML",Marathahalli,Tier 2,2022,Onsite
+BLR0592,UI/UX,4,29.8 LPA,20.5,Flipkart,Unicorn,"Python, Agile, Kubernetes, Deep Learning, Docker, JIRA, PowerBI",Bellandur,T3,2023,Hybrid
+BLR0150,Product Manager,12,80.1 LPA,59.8,Chargebee,Mid-size,"JIRA, MongoDB, Redis, Java, Deep Learning",Indiranagar,2,2024,Work from Office
+BLR0742,Business Systems Analyst,0,9.2 LPA,,Postman,Mid-size,"Node.js, PostgreSQL, MongoDB, Kubernetes, ML, GCP, Redis",MG Road,Tier-2,2024,Hybrid (3 days)
+BLR0089,Data Scientist,2,₹18.9 LPA,13.8 LPA,BrowserStack,Mid-size,"Python, MongoDB, Kubernetes, Redis",Indiranagar,T2,2022,WFH
+BLR0107,SDE Frontend,2,15.8,11.1 LPA,Walmart Labs,MNC,"Kubernetes, ML, JavaScript, Java, Python, Docker",Bellandur,Tier 3,2023,Work from Office
+BLR0226,Infra Engineer,0,13.3,,MoEngage,Mid-size,,MG Road,2,2024,Hybrid
+BLR0507,PM,1,13.8 LPA,9.7,AgriTech Labs,EARLY-STAGE,"Spring Boot, React, PostgreSQL, Pandas, Kafka, Redis",Koramangala,T2,2023,WFH
+BLR0916,SDE-Backend,8,49.8 LPA,31.1,Microsoft India,MNC,"React, System Design, Figma, Kubernetes, ML",Koramangala,Tier 3,2024,Remote
+BLR0158,Designer,2,18.8 LPA,13.5 LPA,Capgemini,MNC,"PostgreSQL, JIRA, Node.js, Microservices, Kubernetes, System Design, Java",Bellandur,2,2024,Work from Office
+BLR0648,Sr PM,8,₹49.4 LPA,31.2,FinNova,early-stage,"SQL, Figma, Kubernetes, PostgreSQL, Deep Learning, Python",Sarjapur,3,2020,Hybrid (3 days)
+BLR0127,PM,1,"2,200,000",17.4 LPA,Freshworks,Mid-size,"ML, JIRA, Kubernetes",,Tier-3,2024,Hybrid
+BLR0367,SDE FS,6,"3,070,000",19.6,Capgemini,mnc,"Kubernetes, Azure, TensorFlow, Microservices, PostgreSQL",Bellandur,3,2022,Work from Office
+BLR0734,Data Analyst,2,"1,470,000",9.5,Wipro,MNC,"Microservices, NumPy, Node.js, Sketch, Java, Python",Jayanagar,Tier-2,2023,Onsite
+BLR0327,FullStack,2,18.2,15.4,Swiggy,Unicorn,"Agile, Pandas, JIRA, Python, PyTorch, PowerBI",Jayanagar,Tier-2,2022,Onsite
+BLR0144,SDE-Backend,4,"2,039,999",16.0 LPA,EdMint,Early-stage,"JavaScript, JIRA, Pandas, React, Kubernetes, MongoDB, Java",MG Road,T3,2024,Hybrid (3 days)
+BLR0104,Sr PM,3,24.6,18.1,TechCrush Labs,Early-stage,"Azure, AWS, Sketch",Koramangala,Tier-3,2023,Remote
+BLR0859,UI Designer,4,21.0,14.2 LPA,MoEngage,Mid-size,"Agile, System Design, Microservices, PowerBI",Bellandur,2,2020,Hybrid (3 days)
+BLR0424,Data Science Engineer,7,"2,580,000",16.3,TechCrush Labs,Early-stage,"MongoDB, PostgreSQL, Redis, Python",Sarjapur,Tier 2,2022,Work from Office
+BLR0443,FullStack,6,38.0 LPA,30.2,Meesho,Unicorn,"PyTorch, Agile, Kafka",MG Road,Tier 2,2023,Hybrid (3 days)
+BLR0573,BI Analyst,1,11.0 LPA,6.8 LPA,Google India,MNC,"Sketch, Node.js, GCP, Kubernetes, Redis",Indiranagar,Tier-3,2024,Remote
+BLR0548,DevOps Engineer,7,32.4 LPA,21.5 LPA,Postman,Mid-size,"System Design, Spring Boot, Java, PyTorch, Sketch",Indiranagar,3,2024,Work from Office
+BLR0864,ML Engineer,5,30.3 LPA,24.8 LPA,Chargebee,Mid-size,"JavaScript, Deep Learning, PowerBI, Excel, Sketch, Azure, PostgreSQL",Sarjapur,3,2020,Hybrid (3 days)
+BLR0629,DevOps,4,24.5 LPA,16.7 LPA,Wipro,MNC,"Tableau, Python, JIRA, System Design",Sarjapur,2,2022,Onsite
+BLR0495,SDE-Frontend,1,12.8 LPA,8.6 LPA,Chargebee,Mid-size,"Java, System Design, TensorFlow, Docker, React, Python",Indiranagar,3,2023,Work from Office
+BLR0431,SDE-Backend,2,20.5,12.4 LPA,Zomato,unicorn,"React, PostgreSQL, Node.js, Pandas, MongoDB, Agile",Whitefield,2,2024,Work from Office
+BLR0272,DS,1,24.7,19.0 LPA,TCS,MNC,"NumPy, Azure, PyTorch, PostgreSQL, System Design, Microservices, AWS",HSR Layout,T1,2023,Onsite
+BLR0358,DS,4,29.3 LPA,23.4 LPA,TCS,MNC,"Spring Boot, Agile, PyTorch, Excel, JIRA, Kubernetes",Sarjapur,2,2023,Hybrid
+BLR0848,SDE Backend,0,10.2 LPA,,Swiggy,Unicorn,"Docker, Node.js, Kubernetes",MG Road,T3,2024,WFH
+BLR0672,SDE Frontend,0,6.7 LPA,,Freshworks,Mid-size,"Pandas, Sketch, Java, Redis, Figma, Spring Boot",Koramangala,Tier 3,2024,Hybrid (3 days)
+BLR0111,Data Analyst,6,23.7,17.2,MoEngage,Mid-size,"System Design, Docker, Azure, GCP",Koramangala,Tier-3,2021,Hybrid (3 days)
+BLR0247,Site Reliability Engineer,7,55.0 LPA,46.2,Cred,unicorn,"System Design, Sketch, AWS, Kubernetes, Docker",Koramangala,Tier-2,2024,Work from Office
+BLR0576,Backend Developer,2,13.0,,FinNova,Early-stage,"Kubernetes, React, MongoDB, Docker, Python, Java",Marathahalli,2,2023,Hybrid
+BLR0275,DA,1,10.4 LPA,7.6,HCL,MNC,"Azure, Sketch, Docker, Excel, Node.js",Marathahalli,T2,2024,Onsite
+BLR0287,Product Lead,2,"1,889,999",,FinNova,Early-stage,"React, Kafka, PowerBI, Excel, Java, Agile",Electronic City,2,2023,WFH
+BLR0518,Analytics Engineer,4,17.7,12.3,IBM,MNC,"Java, PowerBI, React, JavaScript",Bellandur,2,2020,Hybrid (3 days)
+BLR0915,Product Manager,1,19.7 LPA,11.9,Freshworks,Mid-size,"MongoDB, NumPy, Tableau, PostgreSQL, Python",Bellandur,Tier 2,2024,Remote
+BLR0967,Business Analyst,8,29.3 LPA,21.9,Zoho,Mid-size,"TensorFlow, PyTorch, SQL, MongoDB, Pandas",Jayanagar,Tier-3,2023,Onsite
+BLR0120,Data Scientist,3,21.8,,Microsoft India,MNC,"Spring Boot, Docker, PowerBI, GCP, Agile",Indiranagar,Tier 3,2022,Hybrid (3 days)
+BLR0519,BA,1,12.6 LPA,8.3 LPA,Postman,mid-size,"React, Agile, Node.js, Pandas, Python, Kubernetes, Java",Koramangala,Tier-1,2023,Onsite
+BLR0875,Frontend Developer,4,₹21.0 LPA,16.7 LPA,Zoho,Mid-size,"JavaScript, Excel, Redis, Kafka, JIRA, Node.js",Outer Ring Road,1,2023,Hybrid
+BLR0866,Backend Developer,2,15.6 LPA,,EdMint,Early-stage,"System Design, Spring Boot, Redis, TensorFlow, ML",Electronic City,T3,2023,WFH
+BLR0785,Analytics Engineer,0,"680,000",,MoEngage,Mid-size,"PostgreSQL, MongoDB, Pandas, JIRA, Java, Agile",Jayanagar,Tier 3,2024,Hybrid
+BLR0712,SDE-Backend,2,20.3,14.9,Walmart Labs,MNC,"Microservices, Node.js, Docker, AWS, MongoDB, Python, Agile",Outer Ring Road,Tier-2,2024,Onsite
+BLR0314,DA,0,"960,000",,Hasura,Mid-size,"Agile, ML, Node.js",MG Road,Tier-1,2024,Hybrid
+BLR0369,UI/UX,3,20.4,14.7,Infosys,MNC,"Deep Learning, Node.js, JavaScript, React, Tableau, TensorFlow",Jayanagar,T1,2022,Hybrid (3 days)
+BLR0545,Product Manager,6,46.6,35.9 LPA,BYJU'S,Unicorn,"Node.js, Pandas, JIRA, Spring Boot",Marathahalli,2,2023,Work from Office
+BLR0339,Infra Engineer,2,15.7 LPA,9.9,Chargebee,Mid-size,"PowerBI, Pandas, System Design, TensorFlow, PyTorch",MG Road,Tier-3,2022,WFH
+BLR0698,UX Designer,5,₹25.1 LPA,,Accenture,MNC,"SQL, GCP, Python",Outer Ring Road,2,2023,Onsite
+BLR0008,Fullstack Dev,3,20.9 LPA,13.7 LPA,Postman,Mid-size,"Spring Boot, Docker, Deep Learning, Microservices",Whitefield,Tier-2,2024,Hybrid
+BLR0175,UI/UX,0,10.1 LPA,,Flipkart,Unicorn,"Docker, Microservices, GCP, React",Sarjapur,2,2024,Hybrid (3 days)
+BLR0803,UX Designer,5,42.3 LPA,35.4,PhonePe,unicorn,"AWS, ML, Deep Learning, Redis, Java",Electronic City,T3,2024,WFH
+BLR0043,SDE Full-Stack,3,20.9,14.1,Microsoft India,MNC,"Spring Boot, GCP, PyTorch, Figma, Docker, AWS",Bellandur,Tier 3,2021,Hybrid (3 days)
+BLR0627,Frontend Developer,2,₹23.1 LPA,14.2,Meesho,Unicorn,"TensorFlow, System Design, Redis, Deep Learning, Spring Boot, React, Tableau",MG Road,Tier-3,2024,WFH
+BLR0266,Frontend Dev,1,17.8 LPA,14.1 LPA,Capgemini,MNC,"JavaScript, PowerBI, Tableau, ML, Kubernetes, Microservices",Whitefield,Tier 1,2024,WFH
+BLR0923,UI/UX,5,22.0,15.2,Chargebee,Mid-size,"PostgreSQL, MongoDB, Kafka, SQL, AWS",Electronic City,Tier 2,2023,WFH
+BLR0158,Designer,2,18.8 LPA,13.5 LPA,Capgemini,MNC,"PostgreSQL, JIRA, Node.js, Microservices, Kubernetes, System Design, Java",Bellandur,2,2024,Work from Office
+BLR0631,ML Engineer,1,"2,220,000",16.0,Flipkart,Unicorn,"Figma, Kubernetes, AWS, Pandas",Outer Ring Road,2,2024,Remote
+BLR0363,SDE-Backend,1,13.0,9.7 LPA,Accenture,MNC,"TensorFlow, Sketch, Deep Learning, PowerBI, Node.js",Marathahalli,Tier 2,2023,WFH
+BLR0599,Product Lead,2,24.5,20.2 LPA,QuickPay AI,Early-stage,"Excel, Python, System Design, Spring Boot, Deep Learning",Indiranagar,T3,2024,Hybrid (3 days)
+BLR0464,SDE Backend,3,24.1 LPA,18.7 LPA,Google India,MNC,"Sketch, Excel, Spring Boot, Deep Learning",Jayanagar,1,2024,Hybrid (3 days)
+BLR0140,Backend Engineer,4,"3,429,999",28.7,Cred,unicorn,"NumPy, ML, PostgreSQL, PowerBI, Azure, Node.js",Indiranagar,2,2021,Hybrid
+BLR0169,Backend Dev,1,"1,120,000",,MoEngage,Mid-size,"PyTorch, Redis, PowerBI",Jayanagar,Tier-3,2023,Work from Office
+BLR0590,BE,5,₹25.2 LPA,17.2 LPA,Chargebee,Mid-size,"Java, NumPy, TensorFlow, MongoDB, Node.js, Figma, AWS",Sarjapur,T2,2021,WFH
+BLR0110,Data Science Engineer,2,16.9,13.0,SaasGo,Early-stage,"Agile, PowerBI, Redis, Azure, Kubernetes, Deep Learning",MG Road,3,2022,WFH
+BLR0163,SDE Backend,4,25.9,20.9 LPA,HCL,MNC,"Pandas, Spring Boot, React, AWS, Microservices",Outer Ring Road,Tier 2,2020,Remote
+BLR0023,PM,1,₹19.4 LPA,14.3,Microsoft India,MNC,"Figma, Sketch, PostgreSQL",Electronic City,2,2024,WFH
+BLR0572,BE,7,36.2,27.4,Infosys,MNC,"Python, React, System Design, SQL",MG Road,Tier-2,2020,WFH
+BLR0660,Sr PM,6,49.5,29.9,Meesho,Unicorn,"Java, Azure, Figma, Agile, Excel, SQL, PowerBI",Outer Ring Road,T3,2020,Remote
+BLR0857,ML Engineer,3,₹22.1 LPA,14.0,Wipro,mnc,"Redis, React, Python",MG Road,T2,2023,Work from Office
+BLR0855,DevOps Engineer,0,11.4,,Postman,Mid-size,"Deep Learning, Microservices, SQL, NumPy",Electronic City,T2,2024,WFH
+BLR0550,DA,4,29.7,21.4 LPA,Capgemini,MNC,"Deep Learning, Pandas, Excel, Node.js, ML, System Design, React",,2,2021,Remote
+BLR0112,UI Designer,4,"2,940,000",18.4 LPA,Razorpay,Unicorn,"Node.js, System Design, Excel, SQL, PowerBI",Bellandur,Tier-2,2020,Hybrid
+BLR0270,Backend Dev,1,17.8,10.7 LPA,Cred,UNICORN,"Node.js, Spring Boot, ML, Tableau, Agile, PyTorch",,T2,2024,Remote
+BLR0173,Infra Engineer,7,₹41.0 LPA,33.2,Microsoft India,MNC,"GCP, Deep Learning, Agile, Kubernetes",Jayanagar,T2,2022,Hybrid (3 days)
+BLR0963,SDE Full-Stack,2,₹17.4 LPA,12.5,Infosys,MNC,"Kafka, NumPy, PyTorch",Koramangala,2,2024,Onsite
+BLR0480,Backend Dev,2,26.4,17.5 LPA,Zomato,Unicorn,"Excel, System Design, Kafka, Python, JIRA",Indiranagar,Tier-1,2023,WFH
+BLR0293,ML Engineer,1,18.9,,Zomato,Unicorn,"Java, Python, PostgreSQL",Whitefield,T2,2024,Remote
+BLR0505,ML Engineer,3,23.5,15.1 LPA,Wipro,MNC,"React, AWS, System Design, Sketch, Java",Sarjapur,T3,2022,Work from Office
+BLR0951,PM,12,78.5 LPA,50.8,Infosys,MNC,"Kafka, JavaScript, SQL",Whitefield,1,2024,Onsite
+BLR0085,Analytics Engineer,1,9.1,6.4 LPA,SaasGo,Early-stage,"Spring Boot, Pandas, Kubernetes, ML",Electronic City,3,2024,Hybrid (3 days)
+BLR0351,Frontend Engineer,3,₹24.0 LPA,16.0,Google India,MNC,"Microservices, Agile, Excel, PowerBI, Node.js, Java, Figma",Sarjapur,1,2024,Work from Office
+BLR0527,SRE,5,28.1,18.9 LPA,Walmart Labs,MNC,"SQL, Agile, Kafka, PowerBI",Electronic City,T2,2020,Remote
+BLR0758,SDE-Frontend,3,"1,210,000",7.4 LPA,SaasGo,EARLY-STAGE,"Agile, JIRA, NumPy, Azure, React, Kafka, Python",Electronic City,Tier 3,2024,Work from Office
+BLR0435,Frontend Engineer,2,13.8,8.6,Freshworks,Mid-size,"Python, PowerBI, Redis, Deep Learning",Sarjapur,Tier 3,2024,Hybrid
+BLR0873,Business Systems Analyst,4,26.6,19.2 LPA,Zoho,Mid-size,"Node.js, GCP, System Design",Indiranagar,T1,2023,Remote
+BLR0372,Frontend Engineer,0,₹13.4 LPA,,BYJU'S,Unicorn,"GCP, AWS, NumPy, SQL",Electronic City,Tier-1,2024,Remote
+BLR0918,BE,2,18.0 LPA,14.7 LPA,HCL,mnc,"PyTorch, Microservices, Azure, Java, System Design",Sarjapur,Tier-2,2023,Work from Office
+BLR0934,SDE Backend,3,23.3,,Amazon India,MNC,"MongoDB, Azure, PyTorch, Kafka, Microservices, Tableau, Java",HSR Layout,Tier 1,2022,Work from Office
+BLR0973,Frontend Developer,1,11.0 LPA,7.6 LPA,Zoho,Mid-size,"Kafka, TensorFlow, SQL, React, Agile, JIRA, Spring Boot",Sarjapur,2,2023,Work from Office
+BLR0786,Frontend Engineer,0,10.4,,Google India,MNC,"Redis, Azure, Kafka",Bellandur,Tier-1,2024,WFH
+BLR0828,Analytics Engineer,8,24.0 LPA,16.9,FinNova,Early-stage,"Tableau, Redis, Agile, PyTorch, Kubernetes, PowerBI, Node.js",Indiranagar,Tier-2,2023,WFH
+BLR0986,ML Engineer,0,11.8 LPA,,Postman,Mid-size,"Excel, Spring Boot, System Design",Whitefield,Tier-1,2024,Work from Office
+BLR0576,Backend Developer,2,13.0,,FinNova,Early-stage,"Kubernetes, React, MongoDB, Docker, Python, Java",Marathahalli,2,2023,Hybrid
+BLR0485,SDE Backend,0,9.1,,Walmart Labs,MNC,,Whitefield,T3,2024,WFH
+BLR0190,Product Designer,1,14.2,10.0 LPA,BYJU'S,Unicorn,"Microservices, Azure, TensorFlow",Indiranagar,Tier-3,2024,Hybrid
+BLR0225,Full Stack Engineer,2,19.0,14.3,Capgemini,mnc,"GCP, Java, Deep Learning, NumPy, TensorFlow, PostgreSQL",Electronic City,Tier-3,2024,WFH
+BLR0407,ML Engineer,4,₹38.8 LPA,23.4,Cred,Unicorn,"Figma, Java, System Design, MongoDB, Azure",Indiranagar,Tier 1,2020,WFH
+BLR0623,Data Analyst,3,16.9,11.3 LPA,Chargebee,Mid-size,"ML, Figma, PostgreSQL, SQL",Jayanagar,Tier 2,2022,Hybrid
+BLR0687,BI Analyst,0,5.2 LPA,,SaasGo,Early-stage,"Figma, React, JIRA",Outer Ring Road,Tier 2,2024,Hybrid
+BLR0566,Backend Developer,3,₹20.8 LPA,14.3,Meesho,Unicorn,"Java, Node.js, NumPy",Outer Ring Road,Tier 3,2021,Work from Office
+BLR0392,SDE FS,4,₹25.7 LPA,16.9 LPA,Capgemini,MNC,"JIRA, PowerBI, PostgreSQL, Excel",Outer Ring Road,Tier-2,2022,Onsite
+BLR0452,Backend Dev,0,₹11.6 LPA,,Wipro,MNC,"JavaScript, Sketch, AWS, Python, Kubernetes",Sarjapur,T1,2024,Onsite
+BLR0844,PM,8,57.5,44.0 LPA,Walmart Labs,MNC,"PowerBI, AWS, Azure, Redis, Node.js, TensorFlow, JavaScript",Sarjapur,2,2024,Remote
+BLR0097,Product Lead,0,"2,039,999",,Walmart Labs,MNC,"Kubernetes, Spring Boot, TensorFlow, Sketch, React, Docker, Deep Learning",Jayanagar,T2,2024,WFH
+BLR0218,DevOps,0,11.5,,Freshworks,Mid-size,"Node.js, Figma, SQL, AWS",MG Road,Tier 1,2024,Work from Office
+BLR0907,Data Scientist,2,₹19.8 LPA,14.0 LPA,Google India,mnc,"JavaScript, NumPy, AWS, TensorFlow",Indiranagar,T3,2023,Work from Office
+BLR0499,FullStack,0,₹13.6 LPA,,Cred,Unicorn,,HSR Layout,Tier 1,2024,Hybrid (3 days)
+BLR0333,SDE Full-Stack,6,"2,890,000",22.1 LPA,HCL,MNC,"Azure, Kafka, Redis",MG Road,T2,2020,Hybrid
+BLR0064,BA,2,12.9,9.2,Postman,Mid-size,"Docker, PostgreSQL, MongoDB, Redis, PyTorch, Azure, Tableau",HSR Layout,Tier-3,2023,Hybrid
+BLR0513,Data Science Engineer,2,18.5,13.5,BrowserStack,Mid-size,"Redis, System Design, Java, JavaScript",Marathahalli,Tier-2,2024,Onsite
+BLR0321,Backend Engineer,10,55.1 LPA,36.4,MoEngage,Mid-size,"React, AWS, Figma, SQL, Redis, System Design, Docker",MG Road,Tier 1,2021,Hybrid
+BLR0440,BA,5,"3,180,000",20.8 LPA,IBM,MNC,"React, Pandas, Agile, System Design, AWS, Kubernetes, PowerBI",Sarjapur,Tier-2,2024,WFH
+BLR0727,PM,7,55.8 LPA,37.2,Google India,MNC,"JavaScript, Microservices, Kafka, JIRA, React, PostgreSQL",Electronic City,2,2023,Work from Office
+BLR0227,DevOps Engineer,5,20.2 LPA,13.8,TechCrush Labs,Early-stage,"Agile, Excel, JIRA, React",Jayanagar,Tier 3,2023,Onsite
+BLR0206,Infra Engineer,3,19.2,11.9 LPA,Freshworks,Mid-size,"PyTorch, System Design, Agile, React, Figma",Electronic City,3,2022,Hybrid (3 days)
+BLR0636,Infra Engineer,3,27.7,19.1 LPA,Walmart Labs,MNC,"PowerBI, Deep Learning, ML, PyTorch",Koramangala,T3,2022,Onsite
+BLR0988,PM,4,"3,950,000",,Infosys,MNC,"PyTorch, Pandas, Microservices, SQL",HSR Layout,Tier 2,2021,Onsite
+BLR0350,BA,1,19.7 LPA,15.3,Cred,Unicorn,"AWS, Java, Kafka, Excel, System Design",Sarjapur,T3,2024,WFH
+BLR0506,ML Engineer,3,21.7 LPA,17.9,Postman,Mid-size,"Sketch, Docker, Microservices, Pandas",Koramangala,2,2021,Hybrid
+BLR0148,Data Analyst,4,19.8 LPA,14.6,Cognizant,MNC,"Node.js, PyTorch, SQL, GCP, Azure",Whitefield,T2,2020,WFH
+BLR0063,DevOps,2,27.6,17.6 LPA,Razorpay,Unicorn,"AWS, Azure, React, Sketch, Java, Docker",Indiranagar,Tier 1,2022,Hybrid (3 days)
+BLR0187,Product Manager,7,57.2 LPA,42.4,Chargebee,Mid-size,,Marathahalli,T2,2023,Onsite
+BLR0493,Site Reliability Engineer,4,19.8 LPA,12.5,MoEngage,mid-size,"GCP, Sketch, Excel",Sarjapur,Tier-3,2023,Remote
+BLR0458,Frontend Engineer,8,₹39.4 LPA,32.5,Razorpay,unicorn,"React, JavaScript, Kubernetes",Whitefield,T3,2024,Remote
+BLR0624,Data Scientist,2,"2,710,000",,Razorpay,Unicorn,"Docker, Azure, Redis, Deep Learning, TensorFlow, Spring Boot, Python",Indiranagar,2,2023,WFH
+BLR0211,ML Engineer,2,17.1 LPA,,Chargebee,Mid-size,"Figma, Java, Node.js, React",Whitefield,Tier-2,2024,Hybrid
+BLR0405,BA,3,₹15.7 LPA,11.8,Chargebee,Mid-size,"Excel, JavaScript, Sketch, SQL, Node.js",Electronic City,T3,2021,Remote
+BLR0341,Backend Engineer,7,"4,040,000",31.5,Capgemini,MNC,"Tableau, ML, Java",Marathahalli,2,2023,WFH
+BLR0473,DA,4,21.5 LPA,13.5,Microsoft India,MNC,"Sketch, Docker, SQL, PostgreSQL, Deep Learning, React, Kafka",Koramangala,Tier-2,2022,Remote
+BLR0936,SDE-Backend,0,10.6,,Ola,Unicorn,"Figma, Python, ML, Sketch",Electronic City,T3,2024,Hybrid (3 days)
+BLR0267,ML Engineer,4,27.5,20.2,AgriTech Labs,Early-stage,"Java, Sketch, System Design, PyTorch, MongoDB, AWS",Whitefield,T1,2021,Remote
+BLR0193,UI/UX,7,₹29.8 LPA,22.2 LPA,BrowserStack,Mid-size,"ML, Figma, SQL, Spring Boot, NumPy, TensorFlow",MG Road,Tier-3,2022,Remote
+BLR0289,FullStack,7,37.0,26.9,Freshworks,MID-SIZE,"Pandas, Java, Excel, MongoDB, ML",Whitefield,2,2022,Hybrid
+BLR0344,Backend Engineer,3,19.6,,Google India,MNC,"Java, JavaScript, Tableau, Node.js, Docker",Whitefield,Tier 2,2022,Onsite
+BLR0830,SDE Full-Stack,2,17.4 LPA,10.8,QuickPay AI,EARLY-STAGE,"JIRA, Pandas, MongoDB, Python, Microservices, ML, PowerBI",Marathahalli,Tier 1,2023,Hybrid (3 days)
+BLR0459,Backend Engineer,0,₹9.9 LPA,,Microsoft India,MNC,"GCP, Spring Boot, Node.js, React, PowerBI, PyTorch",Sarjapur,T2,2024,Remote
+BLR0720,FullStack,0,8.9,,DataMint,early-stage,"PostgreSQL, AWS, GCP, Sketch",Marathahalli,Tier-1,2024,WFH
+BLR0471,Data Scientist,3,"2,680,000",18.9 LPA,Walmart Labs,MNC,"Deep Learning, Sketch, JavaScript, GCP, Docker, Excel",Bellandur,2,2022,Hybrid (3 days)
+BLR0036,Sr PM,2,45.9,38.9,Swiggy,Unicorn,"Docker, Microservices, Deep Learning, Kafka, PostgreSQL, Tableau",Whitefield,1,2022,Hybrid
+BLR0198,Site Reliability Engineer,2,16.0 LPA,11.4 LPA,Infosys,MNC,"JIRA, Java, Tableau",HSR Layout,3,2024,Work from Office
+BLR0481,Designer,0,₹11.5 LPA,,Zomato,Unicorn,"Sketch, Python, ML, PostgreSQL",MG Road,Tier 2,2024,Work from Office
+BLR0749,Business Analyst,2,"2,410,000",15.5 LPA,Ola,Unicorn,"Kubernetes, MongoDB, Sketch, Microservices, GCP, Tableau, System Design",Outer Ring Road,2,2022,Hybrid (3 days)
+BLR0837,Product Lead,8,"4,370,000",26.6,TechCrush Labs,Early-stage,"JIRA, React, Java, PowerBI, NumPy, Redis",Sarjapur,2,2021,Onsite
+BLR0725,Backend Dev,3,20.6,14.2 LPA,TCS,MNC,"Sketch, Python, System Design, PyTorch, Node.js, MongoDB",Jayanagar,T2,2023,Remote
+BLR0829,SRE,3,27.3 LPA,16.4 LPA,Ola,Unicorn,,Bellandur,Tier 2,2023,Hybrid (3 days)
+BLR0015,Business Systems Analyst,5,₹25.9 LPA,15.8 LPA,Freshworks,mid-size,"Tableau, SQL, Kafka, ML",Koramangala,T1,2023,Work from Office
+BLR0787,UX Designer,2,"1,390,000",8.5,Microsoft India,MNC,"Kubernetes, PowerBI, GCP",MG Road,Tier 3,2023,Hybrid (3 days)
+BLR0797,Frontend Developer,2,20.8 LPA,16.6 LPA,PhonePe,unicorn,"Excel, Redis, Deep Learning",Indiranagar,3,2022,Onsite
+BLR0668,Product Manager,2,21.5 LPA,13.5,DataMint,Early-stage,"GCP, JIRA, AWS, Python, Java, Node.js, SQL",Koramangala,Tier 2,2023,WFH
+BLR0186,Frontend Engineer,6,"3,650,000",22.2 LPA,PhonePe,Unicorn,,Indiranagar,Tier 2,2020,Onsite
+BLR0757,Data Scientist,3,20.7,14.1,IBM,MNC,"Excel, Spring Boot, MongoDB, JavaScript, Node.js, PyTorch",Marathahalli,Tier-3,2021,Hybrid (3 days)
+BLR0733,BA,7,31.1 LPA,22.0 LPA,IBM,MNC,"MongoDB, Agile, Node.js",MG Road,T2,2024,Hybrid (3 days)
+BLR0072,SDE Backend,4,19.5,16.3 LPA,Google India,MNC,"Agile, Python, React, Figma",Koramangala,Tier 3,2023,Onsite
+BLR0890,Business Analyst,8,₹24.8 LPA,,DataMint,Early-stage,"Sketch, Figma, NumPy, Excel",Sarjapur,T2,2022,Work from Office
+BLR0094,Product Lead,6,₹55.1 LPA,43.0 LPA,FinNova,early-stage,"React, System Design, Figma, ML, JavaScript, Node.js, Tableau",MG Road,T1,2021,WFH
+BLR0070,UX Designer,12,₹47.4 LPA,39.0 LPA,IBM,mnc,"Docker, ML, Figma, PostgreSQL",Marathahalli,2,2023,Onsite
+BLR0257,Product Designer,3,26.2,,Unacademy,unicorn,"System Design, MongoDB, Microservices, Sketch, Java, Figma",Marathahalli,3,2021,Work from Office
+BLR0245,Product Manager,4,27.9,19.4 LPA,QuickPay AI,Early-stage,"Spring Boot, SQL, GCP, TensorFlow, Java",Marathahalli,Tier-2,2023,Work from Office
+BLR0976,SRE,6,"4,840,000",38.5,Unacademy,Unicorn,"Kubernetes, Docker, Redis, Spring Boot",Indiranagar,Tier-1,2023,Onsite
+BLR0004,Designer,4,₹18.9 LPA,12.0 LPA,QuickPay AI,early-stage,"Redis, Kubernetes, Deep Learning",Bellandur,2,2020,WFH
+BLR0717,Data Science Engineer,2,15.1 LPA,10.4 LPA,Postman,Mid-size,"Docker, Excel, Java",HSR Layout,3,2024,Hybrid
+BLR0442,ML Engineer,8,52.9 LPA,39.4 LPA,Google India,MNC,"Agile, Spring Boot, TensorFlow, ML",,Tier 2,2022,WFH
+BLR0161,Designer,0,"1,230,000",,Razorpay,Unicorn,"Docker, React, JavaScript, Deep Learning, NumPy",Sarjapur,Tier 1,2024,Hybrid
+BLR0359,Data Science Engineer,4,34.4 LPA,22.3,Capgemini,MNC,"Redis, MongoDB, Deep Learning, AWS, Node.js",Whitefield,Tier 1,2022,Hybrid
+BLR0874,SDE FS,2,24.4 LPA,19.0,Unacademy,Unicorn,"Java, PyTorch, Spring Boot",Jayanagar,T1,2023,WFH
+BLR0714,DevOps,2,16.7 LPA,12.7 LPA,Wipro,MNC,"JavaScript, Spring Boot, Excel",Sarjapur,Tier 2,2024,Onsite
+BLR0588,Infra Engineer,6,31.1,22.4,IBM,MNC,"PyTorch, Excel, Pandas",Outer Ring Road,T1,2024,Hybrid (3 days)
+BLR0152,Business Analyst,7,37.0,24.2,Cred,Unicorn,"Figma, Spring Boot, Microservices, JavaScript, Azure, React",Koramangala,3,2021,Remote
+BLR0708,Product Designer,3,22.6 LPA,,Microsoft India,MNC,"React, Redis, GCP, NumPy, Azure, Kubernetes",Whitefield,1,2024,WFH
+BLR0207,BI Analyst,2,12.3 LPA,8.8 LPA,Cognizant,MNC,"Agile, PyTorch, TensorFlow, Node.js, Figma, Python, React",Outer Ring Road,Tier 2,2023,Remote
+BLR0058,Product Lead,3,"3,670,000",29.5 LPA,IBM,MNC,"Kubernetes, PostgreSQL, Node.js, Java",Indiranagar,T1,2023,Work from Office
+BLR0062,Fullstack Dev,0,"900,000",,Zoho,Mid-size,"React, Excel, Spring Boot, Java, Docker, Tableau",HSR Layout,T3,2024,Work from Office
+BLR0882,Data Analyst,0,5.6,,QuickPay AI,Early-stage,"React, PowerBI, Kubernetes",Indiranagar,Tier-2,2024,Work from Office
+BLR0932,SRE,0,8.8 LPA,,FinNova,Early-stage,"Excel, Kafka, Docker, MongoDB, Tableau, Python",Whitefield,2,2024,Hybrid
+BLR0561,SDE-Backend,5,₹33.4 LPA,25.1,BYJU'S,Unicorn,"Sketch, PostgreSQL, PyTorch, MongoDB, AWS",HSR Layout,Tier-2,2023,WFH
+BLR0769,Frontend Developer,2,₹12.8 LPA,8.8 LPA,Freshworks,Mid-size,"NumPy, SQL, Tableau, Python, Agile, JavaScript",Whitefield,Tier-2,2024,WFH
+BLR0723,Product Lead,5,34.9 LPA,26.0,MoEngage,Mid-size,"Kafka, Tableau, System Design, Excel, PostgreSQL",Koramangala,Tier-3,2020,Work from Office
+BLR0376,Data Science Engineer,8,75.6,46.6 LPA,Razorpay,UNICORN,,Marathahalli,T2,2022,Remote
+BLR0325,Business Systems Analyst,3,14.2 LPA,,SaasGo,Early-stage,"AWS, Node.js, Java, MongoDB",HSR Layout,Tier 2,2021,Hybrid (3 days)
+BLR0360,ML Engineer,1,14.6 LPA,10.4 LPA,AgriTech Labs,Early-stage,,Jayanagar,Tier-2,2023,Work from Office
+BLR0414,SDE FS,1,15.1 LPA,11.3,TCS,MNC,"Microservices, Kafka, TensorFlow, AWS",HSR Layout,Tier 3,2024,Remote
+BLR0172,BE,6,33.3,21.5,Chargebee,Mid-size,"Microservices, PowerBI, NumPy, React, Pandas, Python",Sarjapur,Tier-1,2023,Work from Office
+BLR0772,Infra Engineer,0,10.6 LPA,,Wipro,MNC,"Python, SQL, JIRA, GCP, Deep Learning, TensorFlow",Bellandur,2,2024,WFH
+BLR0666,DA,0,12.7 LPA,,PhonePe,Unicorn,"NumPy, AWS, System Design",Whitefield,Tier-1,2024,Work from Office
+BLR0644,Infra Engineer,6,27.6,,Amazon India,MNC,"JavaScript, Node.js, React",Koramangala,Tier 3,2020,Hybrid (3 days)
+BLR0331,UI/UX,6,28.3,23.0,TCS,MNC,"Tableau, Azure, Pandas",Whitefield,2,2020,WFH
+BLR0516,Analytics Engineer,4,20.6 LPA,17.5,Walmart Labs,MNC,"NumPy, Microservices, AWS, Redis, Excel",Marathahalli,2,2023,Remote
+BLR0589,Analytics Engineer,8,₹36.8 LPA,23.4,BrowserStack,Mid-size,"Spring Boot, PostgreSQL, React, Deep Learning, AWS, Microservices",Whitefield,2,2020,Work from Office
+BLR0586,Data Science Engineer,4,28.2,23.2,Infosys,MNC,"Figma, Excel, Pandas",Koramangala,T2,2022,Onsite
+BLR0653,Data Analyst,2,10.6 LPA,8.0 LPA,QuickPay AI,Early-stage,"Python, Java, AWS, Redis, GCP, Pandas",HSR Layout,3,2024,Onsite
+BLR0114,Business Analyst,0,11.8,,Zomato,unicorn,"System Design, JavaScript, Microservices, Redis, Node.js",HSR Layout,T3,2024,Hybrid (3 days)
+BLR0568,DevOps,1,12.6 LPA,10.5,Microsoft India,mnc,"React, Agile, Spring Boot, Pandas, PostgreSQL, SQL, Redis",Outer Ring Road,2,2024,Hybrid
+BLR0467,SRE,5,23.2,18.2,QuickPay AI,Early-stage,,Outer Ring Road,T3,2022,Hybrid
+BLR0876,Fullstack Dev,4,24.7,19.6 LPA,EdMint,Early-stage,"Deep Learning, PostgreSQL, Tableau, Docker, Spring Boot",Outer Ring Road,T2,2023,Remote
+BLR0362,UI Designer,7,38.2,32.0 LPA,TCS,MNC,"Java, Node.js, NumPy, Deep Learning, PostgreSQL, System Design, Kafka",Bellandur,Tier-2,2020,Hybrid (3 days)
+BLR0296,BA,3,24.7 LPA,20.9 LPA,Cognizant,MNC,"MongoDB, SQL, Java, Kubernetes, Pandas, JavaScript, Deep Learning",Marathahalli,2,2024,Hybrid (3 days)
+BLR0522,Business Analyst,0,₹7.3 LPA,,Zoho,Mid-size,"PowerBI, Kafka, Python",Whitefield,Tier-3,2024,Work from Office
+BLR0300,UI Designer,0,₹8.6 LPA,,MoEngage,Mid-size,"Deep Learning, PyTorch, Kubernetes",Indiranagar,Tier 2,2024,WFH
+BLR0533,SDE-Backend,7,41.5 LPA,28.4,Razorpay,Unicorn,"NumPy, Kafka, Python, Excel, PostgreSQL",Electronic City,T1,2021,WFH
+BLR0805,BE,0,₹12.7 LPA,,Walmart Labs,MNC,"Java, Python, Sketch, System Design, Deep Learning",Whitefield,Tier 2,2024,WFH
+BLR0891,Product Manager,2,31.3,,Meesho,Unicorn,"Python, Java, AWS",MG Road,T2,2022,Onsite
+BLR0022,FullStack,3,20.5 LPA,13.1 LPA,Chargebee,Mid-size,"Pandas, System Design, Azure, GCP, PyTorch, Java, Spring Boot",Jayanagar,2,2021,WFH
+BLR0250,Fullstack Dev,5,25.9 LPA,20.8,FinNova,Early-stage,"Pandas, JavaScript, ML",Outer Ring Road,3,2022,Onsite
+BLR0222,Backend Engineer,4,27.1,16.9 LPA,IBM,mnc,"AWS, Figma, Kubernetes, Python",Koramangala,3,2023,Work from Office
+BLR0960,Infra Engineer,12,45.5 LPA,37.3 LPA,MoEngage,Mid-size,"Azure, Microservices, Figma, JIRA",Indiranagar,2,2021,WFH
+BLR0775,Business Systems Analyst,2,18.3 LPA,15.1 LPA,Wipro,MNC,"Node.js, AWS, MongoDB, Spring Boot, NumPy, Microservices",Sarjapur,Tier 2,2023,Hybrid
+BLR0766,FullStack,8,45.3 LPA,28.6 LPA,Cognizant,MNC,"Azure, Tableau, Pandas, GCP, SQL, Node.js",Electronic City,Tier 1,2024,Hybrid
+BLR0953,Data Scientist,5,₹33.0 LPA,25.7,TCS,MNC,"PostgreSQL, System Design, Tableau, TensorFlow, SQL, Agile",Electronic City,Tier-3,2024,Remote
+BLR0679,Frontend Developer,6,30.3,18.2 LPA,Amazon India,MNC,"PowerBI, Azure, Kubernetes, Kafka, Agile, JIRA, PyTorch",Marathahalli,Tier 3,2023,Hybrid
+BLR0852,Designer,7,28.0,19.6 LPA,Hasura,Mid-size,"Spring Boot, Java, Agile, Figma",Indiranagar,Tier-3,2021,Hybrid
+BLR0556,Frontend Developer,4,30.2,19.7,Ola,Unicorn,"Kafka, Node.js, AWS, PostgreSQL, JavaScript, Figma, Azure",HSR Layout,2,2022,Hybrid
+BLR0357,Fullstack Dev,4,25.1,16.0 LPA,Walmart Labs,MNC,"PowerBI, Sketch, Tableau, PostgreSQL, React",HSR Layout,2,2020,Onsite
+BLR0835,Business Analyst,2,14.2,10.2 LPA,Hasura,Mid-size,"PostgreSQL, Java, Microservices, Python",Indiranagar,Tier 3,2022,Work from Office
+BLR0029,ML Engineer,5,31.4,22.4 LPA,Microsoft India,MNC,"Tableau, Python, NumPy, Agile, AWS",MG Road,Tier-3,2022,Onsite
+BLR0558,PM,10,65.6 LPA,51.5,Wipro,MNC,"Python, Kafka, Spring Boot, AWS, Microservices",Electronic City,2,2020,Remote
+BLR0856,Backend Engineer,2,17.8 LPA,10.8,Chargebee,Mid-size,"ML, Java, TensorFlow",HSR Layout,Tier 2,2024,Work from Office
+BLR0214,DevOps Engineer,4,40.2,,PhonePe,Unicorn,"Pandas, System Design, Docker, AWS, ML",HSR Layout,T3,2022,Hybrid
+BLR0808,SDE Full-Stack,8,71.7,59.9,BYJU'S,Unicorn,"PowerBI, Tableau, Kafka, Figma, Node.js, Deep Learning, Python",Koramangala,Tier 1,2022,Remote
+BLR0884,SDE Full-Stack,6,₹46.9 LPA,34.4,Swiggy,unicorn,"Redis, Java, ML, MongoDB",Outer Ring Road,Tier 2,2022,Work from Office
+BLR0985,Full Stack Engineer,6,44.4 LPA,36.4,Zomato,Unicorn,"MongoDB, Redis, Microservices, JIRA, System Design",Indiranagar,3,2024,Hybrid
+BLR0895,Backend Developer,5,23.2 LPA,17.2 LPA,EdMint,Early-stage,"PyTorch, GCP, System Design",Jayanagar,Tier-3,2024,Work from Office
+BLR0582,PM,1,29.7 LPA,22.5,BYJU'S,unicorn,"Redis, Python, MongoDB, PyTorch, GCP, ML",Jayanagar,T2,2024,Hybrid (3 days)
+BLR0783,Business Systems Analyst,3,22.6,19.2,Microsoft India,MNC,"Docker, Java, AWS",MG Road,T1,2021,WFH
+BLR0145,Frontend Engineer,2,"2,310,000",16.5,Flipkart,unicorn,"MongoDB, TensorFlow, Node.js, JIRA, Pandas, Deep Learning",Koramangala,Tier-2,2024,Onsite
+BLR0347,DA,0,8.3,,FinNova,Early-stage,"Kafka, Microservices, Deep Learning, ML, System Design",Outer Ring Road,3,2024,Hybrid
+BLR0047,BI Analyst,1,₹15.8 LPA,12.8,Flipkart,Unicorn,"JavaScript, Agile, Azure, Tableau, React, Deep Learning",Koramangala,Tier-2,2023,Hybrid
+BLR0174,DS,1,16.6,13.9,BrowserStack,Mid-size,"Spring Boot, System Design, Agile, Node.js",HSR Layout,2,2023,Remote
+BLR0819,Backend Dev,0,9.2 LPA,,QuickPay AI,Early-stage,"Pandas, System Design, Spring Boot",Jayanagar,Tier 1,2024,WFH
+BLR0081,Product Lead,5,42.5,26.0 LPA,Microsoft India,MNC,"React, JavaScript, Deep Learning",Jayanagar,3,2022,WFH
+BLR0959,Data Scientist,4,"2,590,000",17.0 LPA,EdMint,EARLY-STAGE,"Figma, Docker, NumPy, Java, Azure, Python, Redis",HSR Layout,Tier-1,2022,WFH
+BLR0448,PM,6,"5,690,000",43.1 LPA,Postman,Mid-size,"MongoDB, Node.js, Deep Learning, Kubernetes, NumPy, JIRA",Koramangala,T1,2020,Hybrid
+BLR0820,Frontend Dev,12,₹84.4 LPA,70.5,BYJU'S,Unicorn,"Microservices, Deep Learning, SQL, Agile, Spring Boot, Node.js",Sarjapur,1,2024,Hybrid
+BLR0366,Designer,6,25.2 LPA,19.5 LPA,Capgemini,MNC,"Azure, NumPy, PowerBI, Redis, Tableau, PostgreSQL",Whitefield,3,2021,Onsite
+BLR0903,SRE,4,25.5 LPA,20.6,Zoho,Mid-size,"Tableau, Azure, Kubernetes, Python",,T1,2024,Hybrid
+BLR0447,Analytics Engineer,6,"2,610,000",16.8,MoEngage,Mid-size,"Sketch, JIRA, TensorFlow",HSR Layout,1,2021,Hybrid
+BLR0449,SDE Frontend,0,11.7 LPA,,Unacademy,Unicorn,"Spring Boot, Tableau, Java, PowerBI, Deep Learning, Python, MongoDB",MG Road,3,2024,Hybrid (3 days)
+BLR0831,BA,5,33.2,27.5 LPA,PhonePe,Unicorn,"PostgreSQL, Kubernetes, JIRA",Electronic City,T2,2023,Onsite
+BLR0322,Product Lead,2,20.6 LPA,14.7 LPA,BrowserStack,Mid-size,"Pandas, Redis, TensorFlow, MongoDB, JIRA",HSR Layout,T2,2023,Remote
+BLR0143,DevOps Engineer,10,46.3 LPA,35.7 LPA,MoEngage,Mid-size,"System Design, Kubernetes, Node.js, Spring Boot, Tableau, Figma",Bellandur,2,2024,WFH
+BLR0815,UI Designer,5,24.5 LPA,20.6,Zoho,Mid-size,"Redis, System Design, React, PowerBI",Outer Ring Road,T2,2021,Work from Office
+BLR0693,Site Reliability Engineer,2,24.3,17.2 LPA,IBM,MNC,"Figma, System Design, React, AWS",Jayanagar,T1,2024,Onsite
+BLR0912,UI/UX,6,35.5,29.3 LPA,Swiggy,unicorn,"PyTorch, MongoDB, Tableau, Excel, Microservices, Kafka, System Design",Jayanagar,3,2022,Onsite
+BLR0664,BA,5,₹24.5 LPA,17.1,Walmart Labs,MNC,"Figma, PowerBI, Redis, PostgreSQL, MongoDB, React",Marathahalli,T2,2022,Hybrid
+BLR0521,Site Reliability Engineer,1,₹12.8 LPA,9.3 LPA,Postman,Mid-size,"JIRA, MongoDB, Python, AWS",Electronic City,Tier 2,2023,Hybrid (3 days)
+BLR0417,SRE,5,₹31.2 LPA,20.2 LPA,Hasura,Mid-size,"AWS, PowerBI, Deep Learning, Java, Sketch",Jayanagar,Tier 2,2024,Work from Office
+BLR0748,FullStack,0,₹13.8 LPA,,Accenture,MNC,"Tableau, Figma, PostgreSQL, ML, Deep Learning, Node.js, React",Marathahalli,Tier-2,2024,Work from Office
+BLR0083,Business Analyst,10,35.4 LPA,22.2 LPA,Chargebee,Mid-size,"MongoDB, SQL, PowerBI, Pandas",HSR Layout,Tier-2,2022,Hybrid (3 days)
+BLR0202,Business Analyst,4,28.1,21.7 LPA,Microsoft India,MNC,"Node.js, PostgreSQL, NumPy, GCP, Deep Learning, Azure",Marathahalli,Tier-1,2024,Onsite
+BLR0196,SDE-Backend,2,12.4 LPA,9.3,Chargebee,mid-size,"Pandas, JIRA, Excel, TensorFlow",Whitefield,2,2022,Hybrid
+BLR0302,Fullstack Dev,2,22.4 LPA,15.3 LPA,Freshworks,Mid-size,"Deep Learning, JavaScript, TensorFlow, ML, SQL",Sarjapur,2,2023,WFH
+BLR0472,Business Systems Analyst,1,11.2,6.8,Chargebee,Mid-size,"NumPy, PyTorch, Spring Boot, Kubernetes",Indiranagar,2,2023,Work from Office
+BLR0954,BI Analyst,6,₹25.4 LPA,19.5,Cognizant,MNC,"Java, AWS, Agile",Marathahalli,T2,2020,Hybrid
+BLR0825,Business Analyst,2,16.2 LPA,9.7 LPA,Postman,Mid-size,"GCP, Spring Boot, Microservices, React, JIRA, AWS, Sketch",Indiranagar,3,2023,Onsite
+BLR0700,Sr PM,8,"4,730,000",30.7 LPA,Hasura,Mid-size,"MongoDB, JavaScript, System Design",Whitefield,T2,2023,Hybrid (3 days)
+BLR0042,Site Reliability Engineer,1,12.9,8.6 LPA,Microsoft India,MNC,"Node.js, Java, Excel, Figma",Sarjapur,Tier-2,2023,Work from Office
+BLR0490,BA,1,13.6 LPA,9.1,Walmart Labs,MNC,"Microservices, Docker, SQL",Koramangala,Tier 2,2024,Hybrid (3 days)
+BLR0077,Full Stack Engineer,4,25.1,19.0 LPA,Hasura,Mid-size,"SQL, Kafka, Figma, Python, Java, Agile, System Design",Sarjapur,T2,2022,WFH
+BLR0280,Sr PM,0,"1,870,000",,Amazon India,MNC,"Kafka, JavaScript, Pandas, Spring Boot, Tableau, Microservices, Agile",Marathahalli,2,2024,Remote
+BLR0404,UX Designer,0,₹6.6 LPA,,Zoho,Mid-size,,Electronic City,T2,2024,Work from Office
+BLR0381,ML Engineer,6,38.3 LPA,31.2,Cognizant,MNC,"Pandas, PyTorch, TensorFlow, NumPy",Indiranagar,T2,2022,Work from Office
+BLR0745,BI Analyst,8,"3,229,999",,Freshworks,Mid-size,,Bellandur,Tier 2,2024,WFH
+BLR0142,Backend Engineer,7,₹43.5 LPA,30.2,Wipro,MNC,"JIRA, Redis, Figma, Kubernetes",Koramangala,T1,2021,Onsite
+BLR0277,UI/UX,4,27.6 LPA,21.9,Accenture,MNC,"Azure, System Design, Java, Python, Pandas",Koramangala,Tier-1,2021,Hybrid (3 days)
+BLR0812,UI Designer,2,11.0,,Chargebee,Mid-size,"Java, Pandas, NumPy",Jayanagar,T3,2023,Onsite
+BLR0365,SRE,2,"1,060,000",7.4 LPA,AgriTech Labs,Early-stage,"Spring Boot, Excel, React, Figma",Whitefield,3,2022,WFH
+BLR0920,SDE Frontend,7,₹35.0 LPA,21.3,BrowserStack,Mid-size,"System Design, Sketch, AWS, Kubernetes, Tableau",,2,2020,WFH
+BLR0750,Sr PM,0,10.8,,TechCrush Labs,Early-stage,"React, Redis, Docker",Koramangala,T2,2024,Remote
+BLR0510,Data Scientist,0,"1,370,000",,PhonePe,UNICORN,,Indiranagar,T2,2024,Hybrid (3 days)
+BLR0126,Sr PM,10,65.5 LPA,47.6,Wipro,MNC,"Azure, Tableau, Excel",MG Road,Tier 2,2022,WFH
+BLR0729,SDE Backend,2,23.1,14.2 LPA,Cred,unicorn,"Java, Figma, MongoDB, Kubernetes, SQL, PyTorch, TensorFlow",Whitefield,T3,2022,WFH
+BLR0913,Analytics Engineer,6,30.9 LPA,24.3,Chargebee,Mid-size,"Pandas, PostgreSQL, Figma, Node.js, NumPy, Deep Learning",Bellandur,T1,2024,Hybrid
+BLR0886,Data Analyst,4,14.3 LPA,,Postman,Mid-size,"JavaScript, Excel, React, Spring Boot",Electronic City,T3,2022,Work from Office
+BLR0026,Full Stack Engineer,1,12.9 LPA,10.7,Hasura,Mid-size,"Spring Boot, GCP, PostgreSQL, ML, Node.js, Excel",MG Road,Tier 3,2023,Remote
+BLR0880,BI Analyst,0,₹11.4 LPA,,BYJU'S,Unicorn,"PostgreSQL, NumPy, Microservices, ML, Java, Excel",Sarjapur,Tier-2,2024,Hybrid
+BLR0243,Frontend Engineer,2,17.1,13.7,Infosys,MNC,"Kubernetes, Deep Learning, MongoDB, PowerBI, Excel",Marathahalli,T3,2023,Work from Office
+BLR0537,DevOps,3,23.1 LPA,18.7,Wipro,mnc,"React, MongoDB, System Design",Koramangala,3,2021,Onsite
+BLR0332,BA,10,46.0 LPA,32.7,Hasura,Mid-size,"Kafka, Tableau, SQL",Koramangala,Tier 1,2024,Onsite
+BLR0025,SRE,5,₹22.6 LPA,,HCL,MNC,"Pandas, Python, MongoDB",MG Road,3,2024,Remote
+BLR0204,Data Scientist,5,29.5,20.0 LPA,EdMint,Early-stage,"AWS, React, Redis, MongoDB, JIRA, Pandas",Bellandur,Tier-1,2022,Remote
+BLR0060,Backend Engineer,6,40.2 LPA,,Zomato,Unicorn,"Deep Learning, PyTorch, PowerBI, Tableau, Redis, MongoDB, SQL",Koramangala,T3,2024,Hybrid (3 days)
+BLR0530,Product Lead,5,32.3 LPA,25.7 LPA,FinNova,Early-stage,"NumPy, Node.js, JIRA, Docker",Indiranagar,T3,2024,Onsite
+BLR0982,Frontend Dev,3,15.1,11.5,Zoho,Mid-size,"Spring Boot, JIRA, Tableau, Redis, JavaScript",MG Road,Tier 3,2023,Hybrid
+BLR0128,SDE Backend,8,₹41.9 LPA,26.8 LPA,IBM,MNC,"PostgreSQL, TensorFlow, JIRA, Spring Boot, Deep Learning, Java, System Design",Sarjapur,2,2020,Hybrid (3 days)
+BLR0574,Data Science Engineer,6,₹44.1 LPA,35.7 LPA,Cred,UNICORN,"Docker, PyTorch, TensorFlow, Tableau, Agile",Koramangala,T3,2024,Work from Office
+BLR0898,UI Designer,7,44.5 LPA,35.8,PhonePe,Unicorn,,Marathahalli,T3,2020,Onsite
+BLR0201,DA,8,"2,790,000",17.3,Postman,Mid-size,"Azure, MongoDB, Figma, GCP",Jayanagar,T2,2021,Remote
+BLR0939,Backend Dev,6,₹18.6 LPA,14.2,EdMint,Early-stage,"Azure, TensorFlow, JavaScript, Sketch",Koramangala,Tier-3,2022,Work from Office
+BLR0966,PM,5,39.7,31.5 LPA,Google India,MNC,"Microservices, Azure, Node.js, SQL, Spring Boot, Kubernetes, PostgreSQL",Outer Ring Road,Tier 2,2020,Onsite
+BLR0453,Business Systems Analyst,6,32.1 LPA,26.9 LPA,HCL,MNC,"Node.js, AWS, Microservices, Figma, Sketch",Electronic City,Tier 3,2021,Onsite
+BLR0134,DS,2,15.6,11.8 LPA,DataMint,Early-stage,"SQL, JIRA, Azure",HSR Layout,2,2022,Hybrid (3 days)
+BLR0232,DevOps,3,"1,670,000",13.1 LPA,TechCrush Labs,Early-stage,"MongoDB, Python, PostgreSQL, Kubernetes",Indiranagar,Tier-2,2023,Remote
+BLR0773,BA,7,35.9,24.4 LPA,Cred,Unicorn,"PostgreSQL, Tableau, Java, Kafka, Spring Boot, PowerBI, Agile",Jayanagar,3,2022,Remote
+BLR0049,Data Scientist,6,"4,170,000",34.1 LPA,Hasura,Mid-size,"Kubernetes, PostgreSQL, React, Redis",MG Road,T1,2022,Work from Office
+BLR0378,Data Scientist,1,13.9 LPA,11.8 LPA,Freshworks,Mid-size,"PostgreSQL, Azure, Excel, Java, SQL, React",Koramangala,T2,2023,Hybrid (3 days)
+BLR0811,Full Stack Engineer,6,33.1,21.0,Infosys,MNC,"Agile, MongoDB, SQL",Jayanagar,2,2021,Hybrid
+BLR0690,DS,1,12.2,8.5,QuickPay AI,Early-stage,"TensorFlow, Python, Microservices, NumPy",HSR Layout,T2,2023,Work from Office
+BLR0380,Data Scientist,4,33.5 LPA,23.7,Razorpay,UNICORN,"PowerBI, Tableau, Kafka, Redis",Marathahalli,Tier 2,2022,Hybrid (3 days)
+BLR0705,Data Scientist,3,19.6 LPA,11.9,Freshworks,Mid-size,"Java, MongoDB, PostgreSQL, Kubernetes, PyTorch, Node.js, Microservices",Indiranagar,Tier 3,2024,Hybrid (3 days)
+BLR0543,SRE,4,₹24.6 LPA,16.5,BrowserStack,Mid-size,"NumPy, Tableau, Deep Learning, Azure, Figma",Sarjapur,3,2022,Hybrid
+BLR0892,FullStack,5,24.0,16.6,Freshworks,Mid-size,"Spring Boot, Agile, PostgreSQL, MongoDB, Python",Jayanagar,Tier-3,2024,Work from Office
+BLR0455,DevOps Engineer,0,9.8,,Zoho,MID-SIZE,"JavaScript, Python, Kubernetes, Spring Boot, AWS",Electronic City,T3,2024,Hybrid (3 days)
+BLR0639,BA,6,"2,050,000",,DataMint,Early-stage,"Redis, JavaScript, Pandas, React, Java, Spring Boot, Docker",MG Road,T2,2024,Hybrid
+BLR0861,UX Designer,2,₹14.8 LPA,12.5 LPA,Walmart Labs,MNC,"Deep Learning, Docker, PowerBI, PyTorch, Sketch, Figma",HSR Layout,Tier 3,2023,Hybrid
+BLR0870,Backend Dev,5,25.8,18.3 LPA,AgriTech Labs,Early-stage,"PowerBI, Figma, GCP, Deep Learning",Whitefield,T3,2021,Onsite
+BLR0502,DevOps,2,"1,770,000",10.7,Cred,Unicorn,"Azure, Sketch, Node.js, Docker, GCP, Excel",MG Road,3,2022,Remote
+BLR0974,DevOps,3,22.6,16.8,PhonePe,Unicorn,"TensorFlow, MongoDB, Pandas",Indiranagar,Tier 3,2023,Hybrid
+BLR0019,Site Reliability Engineer,4,"2,060,000",14.0 LPA,Postman,Mid-size,"Microservices, MongoDB, Sketch, Node.js, Excel, PowerBI",Indiranagar,Tier 2,2023,Hybrid (3 days)
+BLR0688,Data Scientist,1,15.7 LPA,13.1 LPA,Google India,MNC,"Redis, Spring Boot, Tableau",Koramangala,3,2023,Onsite
+BLR0099,Data Scientist,5,32.6 LPA,23.6 LPA,Postman,Mid-size,"Deep Learning, JIRA, Azure, Tableau",Koramangala,Tier-2,2021,Hybrid
+BLR0197,Business Analyst,0,6.8,,QuickPay AI,Early-stage,"SQL, Redis, Excel, NumPy",Electronic City,T2,2024,WFH
+BLR0181,FE,4,31.1,21.1 LPA,BYJU'S,unicorn,"SQL, Node.js, Redis",Sarjapur,T1,2024,Hybrid (3 days)
+BLR0138,SDE Full-Stack,7,27.3 LPA,22.4 LPA,SaasGo,EARLY-STAGE,"SQL, Node.js, PowerBI, TensorFlow, Kafka, MongoDB",Sarjapur,Tier-1,2020,Onsite
+BLR0041,Business Systems Analyst,0,9.3 LPA,,Cred,Unicorn,"TensorFlow, JavaScript, PostgreSQL",Electronic City,Tier-3,2024,Onsite
+BLR0178,Fullstack Dev,4,"2,560,000",18.8 LPA,BrowserStack,Mid-size,"Pandas, Redis, PowerBI, Tableau, ML",MG Road,T3,2022,Hybrid (3 days)
+BLR0563,Business Systems Analyst,4,"3,090,000",25.4 LPA,Zomato,Unicorn,"Kafka, GCP, PyTorch, Sketch, MongoDB, React",,1,2022,WFH
+BLR0784,PM,2,"2,470,000",16.4,TechCrush Labs,Early-stage,"Tableau, NumPy, JavaScript, Deep Learning, Kubernetes",Whitefield,T3,2023,Hybrid
+BLR0086,Frontend Engineer,7,28.6 LPA,21.0,BrowserStack,Mid-size,"Kafka, Tableau, GCP, JIRA",Koramangala,Tier 2,2024,Hybrid (3 days)
+BLR0914,Business Systems Analyst,0,6.8,,SaasGo,Early-stage,"MongoDB, Redis, Excel",Jayanagar,T3,2024,WFH
+BLR0550,DA,4,29.7,21.4 LPA,Capgemini,MNC,"Deep Learning, Pandas, Excel, Node.js, ML, System Design, React",,2,2021,Remote
+BLR0487,Data Scientist,0,19.2 LPA,,Swiggy,Unicorn,"ML, Excel, System Design, Sketch, Azure",MG Road,Tier-1,2024,WFH
+BLR0474,FE,4,₹22.4 LPA,,Capgemini,mnc,"NumPy, React, Tableau, MongoDB",MG Road,T1,2021,Remote
+BLR0046,Frontend Developer,0,11.1,,Amazon India,MNC,"PowerBI, Deep Learning, Kafka, System Design, Agile",Sarjapur,Tier-2,2024,WFH
+BLR0768,SRE,2,17.8 LPA,11.2 LPA,Razorpay,Unicorn,"React, Kafka, Redis",Jayanagar,Tier 2,2022,Hybrid
+BLR0454,Frontend Dev,2,18.9,13.0 LPA,BYJU'S,Unicorn,"PyTorch, Node.js, Sketch",HSR Layout,Tier-2,2024,Hybrid
+BLR0710,Backend Engineer,4,31.1,21.8,Walmart Labs,MNC,"Pandas, Sketch, Azure, NumPy, AWS, Deep Learning",Sarjapur,Tier 1,2023,Hybrid (3 days)
+BLR0353,BI Analyst,3,17.1 LPA,10.5,HCL,MNC,,Whitefield,Tier-3,2024,Work from Office
+BLR0964,Data Scientist,5,"2,620,000",19.2,SaasGo,Early-stage,"NumPy, Figma, Kubernetes, Spring Boot, PyTorch",Jayanagar,T2,2021,Onsite
+BLR0323,Sr PM,4,₹41.7 LPA,26.6 LPA,HCL,mnc,"Kubernetes, PyTorch, Microservices, Azure, System Design, Sketch, Spring Boot",Jayanagar,Tier 2,2022,WFH
+BLR0242,BA,7,38.7,28.6,IBM,MNC,"JavaScript, Python, PyTorch",Electronic City,T1,2024,Onsite
+BLR0403,Product Manager,3,₹41.9 LPA,25.4,Cred,Unicorn,"Spring Boot, ML, PowerBI, Microservices",Jayanagar,T2,2024,Remote
+BLR0593,Business Systems Analyst,6,24.1,15.1 LPA,Hasura,MID-SIZE,"Python, Excel, SQL, Tableau, Redis, JavaScript",Koramangala,2,2023,WFH
+BLR0456,Frontend Dev,7,38.9 LPA,,HCL,MNC,"AWS, SQL, Redis, Pandas, GCP",Bellandur,T1,2024,Remote
+BLR0930,BA,1,15.1 LPA,9.3,Cred,Unicorn,"MongoDB, TensorFlow, Redis, JavaScript, Pandas",Electronic City,Tier 1,2024,Hybrid
+BLR0399,DevOps,1,"1,939,999",12.2 LPA,Ola,Unicorn,"Azure, Python, PowerBI, Sketch, Figma, Pandas, GCP",Whitefield,T1,2024,WFH
+BLR0685,BA,0,10.5 LPA,,Walmart Labs,MNC,"TensorFlow, MongoDB, Kafka, Python, Kubernetes",Jayanagar,Tier 1,2024,Work from Office
+BLR0165,BA,8,"2,920,000",23.7 LPA,Freshworks,Mid-size,"Sketch, GCP, System Design",Outer Ring Road,3,2022,Remote
+BLR0989,ML Engineer,0,₹10.0 LPA,,Postman,Mid-size,"GCP, TensorFlow, Java, PyTorch",Outer Ring Road,T2,2024,Remote
+BLR0981,DevOps,2,15.9,11.9 LPA,Postman,MID-SIZE,"Docker, Azure, Microservices",Indiranagar,Tier-2,2022,Hybrid
+BLR0962,UI/UX,2,15.0 LPA,12.2 LPA,HCL,MNC,"PostgreSQL, Microservices, Redis",Marathahalli,Tier-1,2023,WFH
+BLR0355,Backend Developer,0,8.0,,MoEngage,mid-size,"Tableau, SQL, Docker",Marathahalli,Tier-2,2024,WFH
+BLR0612,BE,3,₹23.1 LPA,17.1 LPA,Accenture,MNC,"Deep Learning, SQL, Spring Boot, Microservices, GCP, Sketch",Marathahalli,Tier-2,2022,Hybrid (3 days)
+BLR0928,SDE-Backend,5,44.3,,BYJU'S,Unicorn,"Deep Learning, Sketch, Redis, TensorFlow",Koramangala,1,2021,Remote
+BLR0991,ML Engineer,4,38.5,26.0 LPA,Flipkart,Unicorn,"Redis, Java, Pandas, Kubernetes, Figma, JavaScript",MG Road,Tier 2,2023,WFH
+BLR0500,Designer,5,32.3 LPA,25.6,BYJU'S,Unicorn,"JavaScript, MongoDB, SQL, Java, JIRA, ML, PyTorch",Whitefield,Tier-2,2020,Work from Office
+BLR0902,SRE,4,25.1 LPA,16.7 LPA,Amazon India,MNC,"PostgreSQL, Node.js, JIRA, Figma, Sketch, JavaScript",Electronic City,T2,2021,Hybrid (3 days)
+BLR0956,Data Science Engineer,2,₹19.8 LPA,,Amazon India,MNC,"Figma, JavaScript, Sketch, Python, Node.js, Redis, Docker",Sarjapur,2,2024,Onsite
+BLR0444,Backend Engineer,6,40.6,25.5 LPA,Cred,Unicorn,"Spring Boot, Pandas, System Design",Jayanagar,2,2021,Work from Office
+BLR0213,UX Designer,1,8.4 LPA,5.2,SaasGo,Early-stage,"JavaScript, PostgreSQL, Spring Boot",Sarjapur,Tier-3,2024,Onsite
+BLR0274,Data Scientist,1,16.0,11.0 LPA,Accenture,MNC,"Java, Pandas, PowerBI, SQL",Bellandur,Tier-1,2023,Remote
+BLR0384,BE,4,"2,380,000",18.5,Unacademy,Unicorn,"GCP, Azure, Excel, PowerBI",MG Road,Tier 3,2024,WFH
+BLR0719,Business Analyst,2,13.0 LPA,9.0 LPA,AgriTech Labs,early-stage,"JavaScript, MongoDB, React",Whitefield,Tier 3,2022,WFH
+BLR0014,Data Analyst,7,32.1 LPA,,Postman,Mid-size,"AWS, Spring Boot, Kubernetes, Agile, Microservices, System Design, GCP",Electronic City,Tier 2,2023,Hybrid
+BLR0633,Backend Engineer,5,25.0 LPA,19.5 LPA,SaasGo,EARLY-STAGE,"JIRA, Agile, Sketch, Redis, AWS, JavaScript",Electronic City,Tier 3,2020,Onsite
+BLR0781,Product Manager,2,32.3 LPA,,Unacademy,Unicorn,"Kafka, Excel, Deep Learning, Tableau, Azure",Koramangala,Tier-3,2024,Remote
+BLR0847,Sr PM,2,₹38.4 LPA,,Flipkart,UNICORN,"System Design, Kafka, SQL",Jayanagar,2,2023,Hybrid (3 days)
+BLR0400,UI Designer,5,24.0 LPA,19.2 LPA,TCS,MNC,"Tableau, Spring Boot, Kafka, Redis, System Design, JavaScript, PostgreSQL",Sarjapur,Tier 3,2023,Hybrid
+BLR0731,Frontend Engineer,0,8.5 LPA,,AgriTech Labs,Early-stage,"AWS, PyTorch, Azure",Jayanagar,1,2024,Remote
+BLR0312,Product Designer,3,21.8 LPA,18.4,Flipkart,Unicorn,,Sarjapur,2,2023,WFH
+BLR0282,ML Engineer,2,"2,080,000",14.4 LPA,Walmart Labs,MNC,"PowerBI, Microservices, Spring Boot, NumPy, Kafka, Tableau",Electronic City,T2,2024,WFH
+BLR0938,Business Systems Analyst,6,29.7 LPA,24.6 LPA,Chargebee,Mid-size,"MongoDB, Spring Boot, Excel, SQL, Deep Learning, Python",Whitefield,3,2022,Remote
+BLR0230,SDE Full-Stack,2,21.4,,Walmart Labs,MNC,"GCP, Redis, SQL, System Design, Agile, Deep Learning, Python",Sarjapur,T3,2023,Work from Office
+BLR0816,Designer,10,"4,380,000",30.7,IBM,MNC,"AWS, Sketch, PostgreSQL",Electronic City,1,2024,Hybrid
+BLR0141,ML Engineer,6,31.7 LPA,,Hasura,mid-size,"Agile, PowerBI, React, AWS, Kafka",Jayanagar,Tier-3,2020,WFH
+BLR0637,Business Analyst,5,₹23.5 LPA,18.9 LPA,DataMint,Early-stage,"NumPy, JIRA, Figma, System Design, React",Jayanagar,T2,2021,Work from Office
+BLR0551,DevOps Engineer,2,"2,560,000",16.8 LPA,IBM,MNC,"System Design, AWS, ML",Sarjapur,Tier 2,2022,Remote
+BLR0591,Product Lead,4,₹51.8 LPA,35.5,BYJU'S,Unicorn,"ML, Node.js, Spring Boot, TensorFlow, Sketch",Bellandur,1,2020,Remote
+BLR0512,BI Analyst,1,"1,080,000",8.5,Walmart Labs,MNC,"Docker, TensorFlow, Java, Azure, JIRA, Tableau",Whitefield,T2,2023,WFH
+BLR0095,DevOps Engineer,2,11.4,8.8,AgriTech Labs,Early-stage,"Redis, Microservices, TensorFlow",HSR Layout,Tier 3,2024,WFH
+BLR0375,DS,0,10.9,,Infosys,MNC,"Microservices, Java, Azure, Agile",Sarjapur,T3,2024,Hybrid
+BLR0153,Designer,0,"780,000",,MoEngage,MID-SIZE,"Sketch, PowerBI, Python, Node.js, AWS, Kafka, SQL",Outer Ring Road,2,2024,Hybrid (3 days)
+BLR0609,UI Designer,4,20.1 LPA,12.2,Zoho,Mid-size,"JavaScript, Microservices, Agile, React",Bellandur,Tier 1,2022,Work from Office
+BLR0021,SDE Backend,5,28.6,23.5,Capgemini,MNC,"Tableau, Azure, JIRA",Jayanagar,Tier-2,2020,WFH
+BLR0236,FE,3,27.0 LPA,21.0 LPA,Unacademy,Unicorn,"React, Deep Learning, TensorFlow, Kubernetes, PyTorch, Python, Node.js",Marathahalli,T3,2024,Hybrid (3 days)
+BLR0108,Site Reliability Engineer,0,11.2,,TCS,MNC,"Sketch, Azure, PowerBI, NumPy, Node.js, Microservices, Deep Learning",Outer Ring Road,2,2024,Onsite
+BLR0100,SRE,2,13.0 LPA,9.4,Postman,Mid-size,"GCP, Tableau, JIRA",Marathahalli,3,2022,Hybrid (3 days)
+BLR0248,SRE,1,11.6 LPA,7.2 LPA,Zoho,Mid-size,"Java, Docker, Excel, Sketch",Electronic City,T2,2023,Onsite
+BLR0947,Full Stack Engineer,8,"4,980,000",40.5 LPA,BrowserStack,Mid-size,"Microservices, Node.js, Deep Learning, PyTorch, Python, NumPy",Bellandur,Tier-2,2024,WFH
+BLR0102,Business Systems Analyst,3,25.1 LPA,,PhonePe,Unicorn,"NumPy, MongoDB, GCP",Bellandur,Tier-2,2023,Work from Office
+BLR0764,Designer,7,₹26.6 LPA,21.5 LPA,EdMint,Early-stage,"React, Excel, Docker, Deep Learning",MG Road,T3,2024,Hybrid (3 days)
+BLR0037,Product Designer,4,19.5,12.5,Amazon India,MNC,"GCP, Tableau, React, JIRA",MG Road,Tier-3,2020,Remote
+BLR0370,Business Analyst,1,₹10.1 LPA,7.8,FinNova,early-stage,"Excel, Redis, Azure, NumPy, Kubernetes, PowerBI",Indiranagar,Tier 2,2023,WFH
+BLR0760,Data Science Engineer,4,19.7,15.4,QuickPay AI,Early-stage,"JavaScript, PyTorch, Java, ML, Kafka",Outer Ring Road,Tier 3,2022,Onsite
+BLR0992,Analytics Engineer,5,32.9 LPA,22.2,Ola,Unicorn,"ML, TensorFlow, PostgreSQL, Kubernetes, Redis",Indiranagar,3,2023,WFH
+BLR0428,Full Stack Engineer,2,17.7 LPA,13.7 LPA,Capgemini,MNC,"Kafka, Java, JavaScript, PowerBI, TensorFlow, MongoDB",Sarjapur,T1,2022,Hybrid
+BLR0946,BI Analyst,6,"3,629,999",25.0,Unacademy,unicorn,"Python, ML, Pandas, MongoDB",HSR Layout,T2,2024,Work from Office
+BLR0319,UX Designer,3,27.4 LPA,16.5,Swiggy,UNICORN,"AWS, Figma, Docker",Outer Ring Road,1,2023,Hybrid
+BLR0652,UI Designer,2,12.4,8.9 LPA,Hasura,Mid-size,"MongoDB, Sketch, Docker",Koramangala,2,2022,Hybrid
+BLR0171,SRE,6,20.8 LPA,14.5 LPA,SaasGo,Early-stage,"Spring Boot, JavaScript, SQL, Sketch, Node.js",Outer Ring Road,Tier-3,2023,WFH
+BLR0356,Frontend Engineer,4,21.0,15.1,Freshworks,Mid-size,"PowerBI, AWS, JavaScript, Python, Excel",Whitefield,T2,2023,Remote
+BLR0940,SDE FS,10,46.3,34.4,Infosys,MNC,"Redis, Figma, Microservices, Python, Java",Electronic City,T2,2022,WFH
+BLR0024,BA,2,14.0 LPA,11.4 LPA,Chargebee,Mid-size,"Kafka, PyTorch, JIRA, React",MG Road,Tier-2,2023,WFH
+BLR0092,DS,1,11.9,,FinNova,EARLY-STAGE,"Spring Boot, PowerBI, Pandas, Java",Electronic City,Tier 2,2023,Hybrid (3 days)
+BLR0340,BA,5,16.2 LPA,10.9 LPA,SaasGo,Early-stage,"Excel, Figma, TensorFlow",Bellandur,2,2023,WFH
+BLR0684,PM,6,"4,900,000",35.0 LPA,MoEngage,Mid-size,"Excel, System Design, Pandas, PostgreSQL",Whitefield,T2,2022,Remote
+BLR0295,Designer,5,"1,960,000",13.8,DataMint,Early-stage,"Python, MongoDB, JavaScript, AWS, NumPy, Spring Boot, Pandas",Koramangala,Tier-2,2021,Remote
+BLR0388,Data Scientist,2,26.6,16.3 LPA,IBM,MNC,"PostgreSQL, Kubernetes, Excel, TensorFlow, JIRA, ML",Whitefield,2,2023,WFH
+BLR0045,Product Manager,1,18.3 LPA,12.0,Zoho,Mid-size,"Kafka, Node.js, GCP, JIRA, Agile",Jayanagar,3,2023,Onsite
+BLR0215,SDE Backend,4,"1,950,000",12.3 LPA,BrowserStack,Mid-size,"PostgreSQL, Java, Azure, Node.js, Pandas",Koramangala,Tier 2,2020,WFH
+BLR0813,Backend Developer,0,10.3 LPA,,Hasura,Mid-size,"Java, JavaScript, PowerBI",HSR Layout,T1,2024,Remote
+BLR0818,Product Designer,10,55.7 LPA,38.1 LPA,Accenture,MNC,"Deep Learning, JIRA, React, Tableau, SQL",Bellandur,Tier-1,2021,Hybrid
+BLR0983,UX Designer,2,13.5,9.3,Microsoft India,MNC,"Kubernetes, PyTorch, Spring Boot, Tableau",Jayanagar,3,2024,Hybrid
+BLR0919,BE,1,12.0 LPA,7.4,Accenture,MNC,"PyTorch, Python, Figma, Node.js",Sarjapur,Tier-2,2023,WFH
+BLR0577,Data Science Engineer,5,₹31.7 LPA,22.5,MoEngage,Mid-size,"Kafka, ML, Java, Azure",,Tier-2,2022,Remote
+BLR0038,BA,4,"2,690,000",22.4,Cred,Unicorn,"TensorFlow, Kafka, Pandas, Azure, PyTorch",Electronic City,T2,2024,Work from Office
+BLR0604,Business Analyst,7,42.4 LPA,27.0 LPA,PhonePe,Unicorn,"React, Docker, System Design, MongoDB",HSR Layout,3,2020,Hybrid
+BLR0955,Business Systems Analyst,5,19.8,15.0 LPA,MoEngage,MID-SIZE,"JavaScript, TensorFlow, Python, Tableau, Spring Boot, NumPy",Outer Ring Road,T2,2021,Work from Office
+BLR0101,Business Analyst,1,"1,150,000",8.9 LPA,Postman,MID-SIZE,"Pandas, Node.js, Sketch, Tableau, System Design, SQL, NumPy",Bellandur,Tier 3,2023,Hybrid (3 days)
+BLR0883,DA,0,9.5 LPA,,Cognizant,MNC,"NumPy, Python, System Design, Microservices, Tableau, Kubernetes, JavaScript",MG Road,T3,2024,Hybrid (3 days)
+BLR0251,UX Designer,2,"1,839,999",12.1,Microsoft India,MNC,"Pandas, Deep Learning, Java, Kubernetes",Bellandur,Tier-2,2024,WFH
+BLR0970,SDE-Backend,5,20.6,14.7,EdMint,Early-stage,"JavaScript, Sketch, GCP",Outer Ring Road,Tier-2,2024,WFH
+BLR0027,Data Scientist,4,26.1 LPA,18.9 LPA,Walmart Labs,MNC,"Redis, PowerBI, SQL",Marathahalli,2,2022,Hybrid (3 days)
+BLR0862,SRE,4,25.5 LPA,19.7,Infosys,MNC,"GCP, PowerBI, TensorFlow, Excel, Node.js, PyTorch",Koramangala,1,2024,Remote
+BLR0865,Designer,1,₹12.2 LPA,9.6 LPA,BYJU'S,Unicorn,"Excel, MongoDB, Pandas, JIRA",Outer Ring Road,2,2024,WFH
+BLR0739,DA,2,16.9 LPA,10.5,Chargebee,Mid-size,"Tableau, System Design, Java, JIRA, Sketch, Docker, ML",HSR Layout,Tier-2,2024,WFH
+BLR0324,Data Analyst,3,"1,300,000",10.4,EdMint,EARLY-STAGE,"TensorFlow, JavaScript, PyTorch, Microservices, MongoDB, PowerBI",Electronic City,Tier 2,2024,Onsite
+BLR0494,Data Scientist,4,38.0 LPA,28.5 LPA,PhonePe,Unicorn,"Kubernetes, SQL, Tableau, Spring Boot, Azure, JIRA, Figma",Outer Ring Road,Tier 3,2024,Work from Office
+BLR0199,Frontend Dev,0,"890,000",,TCS,MNC,"Sketch, Tableau, Kafka, Redis, PowerBI",Bellandur,Tier-2,2024,Remote
+BLR0911,Sr PM,7,64.0 LPA,46.2,Cred,Unicorn,"PostgreSQL, NumPy, Docker, Excel, Agile, Microservices, Figma",Jayanagar,Tier-2,2020,Hybrid
+BLR0231,Data Science Engineer,1,"2,410,000",15.3,Cred,Unicorn,"PyTorch, Tableau, React, AWS, System Design",Bellandur,T2,2024,Hybrid
+BLR0726,Data Analyst,7,24.5,18.7 LPA,AgriTech Labs,EARLY-STAGE,"Sketch, Spring Boot, PowerBI, Excel",HSR Layout,T1,2020,Onsite
+BLR0168,ML Engineer,3,27.0,19.5 LPA,Hasura,mid-size,"Pandas, ML, Microservices, System Design",Koramangala,Tier 3,2021,Onsite
+BLR0124,Data Science Engineer,4,₹26.6 LPA,16.8 LPA,Freshworks,Mid-size,"React, PowerBI, Azure",Outer Ring Road,Tier 2,2021,Remote
+BLR0264,DA,5,20.7,16.4 LPA,Infosys,MNC,"SQL, GCP, Agile, Kafka, Node.js",Electronic City,T2,2024,Remote
+BLR0503,BA,2,13.8 LPA,11.7,Microsoft India,MNC,"NumPy, React, Kafka, PyTorch, Docker, JavaScript",Outer Ring Road,Tier 3,2024,Hybrid (3 days)
+BLR0315,Analytics Engineer,5,22.2,15.4,HCL,MNC,"AWS, Kafka, Docker, MongoDB, Microservices, Agile, TensorFlow",Marathahalli,Tier 3,2021,Hybrid
+BLR0634,BE,3,28.3 LPA,19.0 LPA,Swiggy,Unicorn,"Microservices, Deep Learning, Python, SQL, Pandas, TensorFlow",Electronic City,Tier 2,2021,Remote
+BLR0671,Product Lead,1,"1,930,000",14.5 LPA,Infosys,MNC,"JavaScript, Docker, Azure, Pandas, Sketch",Bellandur,Tier-3,2024,WFH
+BLR0770,BA,1,11.1,7.2 LPA,Accenture,MNC,"Kafka, Figma, Docker",Jayanagar,2,2023,Work from Office
+BLR0298,PM,1,28.7 LPA,18.1 LPA,Amazon India,MNC,"PowerBI, GCP, PostgreSQL, Redis, Figma, System Design, Deep Learning",Indiranagar,Tier-2,2024,Remote
+BLR0157,Backend Dev,2,18.0,12.9,Wipro,MNC,"Docker, GCP, TensorFlow, Deep Learning, Figma, MongoDB",Indiranagar,T3,2023,Hybrid (3 days)
+BLR0492,Data Analyst,12,43.4 LPA,28.0 LPA,Zoho,Mid-size,"SQL, Excel, GCP, ML, Sketch, Microservices",,Tier 2,2021,Remote
+BLR0342,BA,6,₹36.9 LPA,27.4,Microsoft India,MNC,"Deep Learning, Azure, Sketch, Agile, Kubernetes, Tableau",Outer Ring Road,Tier-2,2022,Hybrid (3 days)
+BLR0441,Analytics Engineer,4,"2,310,000",,Zomato,Unicorn,"Docker, Figma, Spring Boot",Electronic City,T2,2021,Hybrid
+BLR0103,Analytics Engineer,2,14.3,,Cognizant,MNC,"PowerBI, Azure, Spring Boot, JIRA, Docker, Microservices",Outer Ring Road,Tier 1,2024,WFH
+BLR0534,BA,2,14.1 LPA,9.8 LPA,DataMint,Early-stage,"Kafka, JavaScript, PyTorch, Redis, Java, ML, Microservices",Sarjapur,Tier-2,2023,WFH
+BLR0419,DA,2,11.1 LPA,7.8 LPA,TechCrush Labs,Early-stage,"MongoDB, Kafka, Deep Learning, Pandas",,Tier 3,2024,Work from Office
+BLR0732,BA,1,8.6,6.2,DataMint,Early-stage,"Excel, Node.js, Python",MG Road,Tier-2,2023,Hybrid
+BLR0817,Site Reliability Engineer,2,15.3 LPA,13.0,Chargebee,Mid-size,"TensorFlow, NumPy, SQL, Deep Learning",Jayanagar,Tier-3,2023,Hybrid
+BLR0933,SDE Frontend,3,₹24.4 LPA,18.0,PhonePe,Unicorn,"Node.js, Redis, TensorFlow",Marathahalli,2,2021,WFH
+BLR0374,DevOps Engineer,1,17.4 LPA,,PhonePe,Unicorn,"Kafka, System Design, Redis",MG Road,Tier 2,2023,Onsite
+BLR0486,Product Manager,2,25.7 LPA,20.3,Wipro,MNC,"Sketch, Excel, ML",Whitefield,Tier 2,2022,Hybrid (3 days)
+BLR0088,SDE-Backend,2,13.4,9.8,TechCrush Labs,Early-stage,,Marathahalli,Tier 2,2024,Onsite
+BLR0823,Data Analyst,1,8.0,6.7,TechCrush Labs,early-stage,"React, Agile, SQL, Sketch, AWS",Bellandur,2,2023,Hybrid
+BLR0135,Full Stack Engineer,2,14.0,10.3,QuickPay AI,Early-stage,"Kubernetes, PyTorch, GCP, Azure, Java",Marathahalli,Tier 1,2024,Onsite
+BLR0853,DS,12,56.1,36.2,DataMint,Early-stage,"Python, System Design, JavaScript, PostgreSQL, Excel, Docker, GCP",Indiranagar,T2,2021,Work from Office
+BLR0694,Data Science Engineer,1,15.4,11.1 LPA,IBM,MNC,"PostgreSQL, Python, Pandas, Redis, Agile, NumPy",Marathahalli,2,2024,Hybrid
+BLR0587,Sr PM,2,21.9 LPA,18.5,DataMint,Early-stage,"Java, Agile, Spring Boot, React, Kubernetes",Bellandur,T3,2022,Hybrid
+BLR0129,Frontend Engineer,4,20.1 LPA,,Chargebee,Mid-size,"Java, JIRA, TensorFlow, JavaScript",Indiranagar,2,2023,WFH
+BLR0411,BA,0,"840,000",,Wipro,MNC,"Python, React, PostgreSQL, Microservices, GCP, Azure",Sarjapur,2,2024,WFH
+BLR0268,DevOps,2,15.5 LPA,11.7 LPA,MoEngage,MID-SIZE,"PyTorch, Microservices, Figma, Sketch, Tableau, React, MongoDB",Indiranagar,Tier 3,2022,Hybrid (3 days)
+BLR0105,DS,5,"2,730,000",16.9,MoEngage,Mid-size,"Node.js, PowerBI, Azure, Kafka, Figma",HSR Layout,3,2022,Hybrid
+BLR0686,DevOps,4,31.3 LPA,26.5,BYJU'S,Unicorn,"Kafka, TensorFlow, Docker, SQL, JavaScript, Figma, Sketch",Electronic City,3,2022,Hybrid (3 days)
+BLR0437,SDE-Backend,5,27.9 LPA,18.5,TCS,MNC,"Kubernetes, Node.js, Docker, JIRA, Java, GCP",Bellandur,Tier 2,2023,WFH
+BLR0669,Analytics Engineer,4,23.0 LPA,19.5 LPA,Wipro,MNC,"NumPy, Microservices, GCP, Redis, Excel, PostgreSQL, Azure",Electronic City,Tier-1,2020,Remote
+BLR0863,SDE FS,1,14.1 LPA,9.3,Accenture,MNC,"Java, Figma, Kubernetes, Excel",Electronic City,2,2023,Hybrid (3 days)
+BLR0942,SDE Full-Stack,3,₹19.1 LPA,13.6 LPA,TCS,MNC,"Sketch, React, PyTorch, Azure, Redis",Outer Ring Road,T2,2024,Work from Office
+BLR0345,PM,2,₹27.4 LPA,18.6,Cognizant,MNC,"SQL, AWS, Azure",HSR Layout,Tier-2,2024,Hybrid (3 days)
+BLR0240,Designer,10,41.2 LPA,26.0,Zoho,Mid-size,"PostgreSQL, Docker, Kubernetes",Jayanagar,Tier 2,2022,Hybrid
+BLR0744,Site Reliability Engineer,1,₹12.0 LPA,9.3 LPA,MoEngage,Mid-size,"Figma, Spring Boot, Azure, Kubernetes",Marathahalli,3,2024,Work from Office
+BLR0532,Product Manager,7,46.3 LPA,37.9,Chargebee,Mid-size,"PostgreSQL, JIRA, JavaScript, Deep Learning",Marathahalli,T3,2020,Hybrid (3 days)
+BLR0057,Frontend Developer,6,₹35.5 LPA,29.7 LPA,Flipkart,Unicorn,"Figma, Kubernetes, PowerBI",Outer Ring Road,Tier-2,2022,Hybrid
+BLR0155,PM,6,41.2 LPA,33.5 LPA,AgriTech Labs,early-stage,,Sarjapur,2,2023,Work from Office
+BLR0338,Analytics Engineer,4,14.1,8.8 LPA,EdMint,Early-stage,"NumPy, MongoDB, Azure, JavaScript, Kubernetes, Agile",Marathahalli,3,2023,Remote
+BLR0654,SDE-Frontend,1,14.3 LPA,10.6 LPA,Infosys,mnc,"GCP, JavaScript, Tableau",Electronic City,Tier 1,2023,Onsite
+BLR1000,Product Lead,0,19.0,,Wipro,MNC,"Deep Learning, PostgreSQL, Node.js",Jayanagar,Tier 3,2024,Work from Office
+BLR0778,Frontend Developer,8,28.6,19.4,EdMint,Early-stage,"PowerBI, PyTorch, NumPy, ML",HSR Layout,T1,2023,Work from Office
+BLR0854,DevOps Engineer,2,23.4 LPA,15.4,Meesho,Unicorn,"Figma, Redis, Azure, Java, System Design, JavaScript",Sarjapur,Tier-2,2023,Work from Office
+BLR0889,Fullstack Dev,1,14.9,,Accenture,MNC,"JIRA, ML, Tableau",HSR Layout,T3,2023,Hybrid
+BLR0393,Data Scientist,3,₹33.2 LPA,25.4,BYJU'S,Unicorn,"MongoDB, Python, Docker, SQL, PowerBI, Tableau, AWS",Jayanagar,3,2024,WFH
+BLR0608,DevOps Engineer,5,20.2,12.9 LPA,SaasGo,Early-stage,"Excel, JIRA, Kubernetes, PowerBI, Sketch",HSR Layout,T2,2020,Hybrid
+BLR0446,BI Analyst,1,"910,000",5.5 LPA,Hasura,Mid-size,"Figma, Pandas, Agile, JavaScript",Electronic City,Tier-3,2024,Hybrid (3 days)
+BLR0554,BA,3,18.3,13.9,TCS,MNC,,HSR Layout,Tier 2,2024,Work from Office
+BLR0801,DA,2,8.8,5.3,QuickPay AI,Early-stage,"PowerBI, PyTorch, Node.js, NumPy",Bellandur,Tier 2,2024,Hybrid
+BLR0730,Business Analyst,4,"2,430,000",18.4 LPA,Infosys,MNC,"Sketch, React, MongoDB, Deep Learning, PostgreSQL, TensorFlow",Indiranagar,2,2021,Work from Office
+BLR0482,Business Systems Analyst,2,16.0 LPA,9.8,Hasura,Mid-size,"PyTorch, TensorFlow, System Design",Electronic City,Tier 1,2024,Onsite
+BLR0557,SDE FS,4,"2,180,000",14.8 LPA,Google India,MNC,"Redis, TensorFlow, PostgreSQL, MongoDB, GCP, Azure, Kafka",HSR Layout,3,2020,Remote
+BLR0690,DS,1,12.2,8.5,QuickPay AI,Early-stage,"TensorFlow, Python, Microservices, NumPy",HSR Layout,T2,2023,Work from Office
+BLR0330,ML Engineer,4,30.0 LPA,,Ola,UNICORN,"Node.js, Excel, Pandas, JavaScript",Indiranagar,Tier-3,2022,Hybrid
+BLR0641,Frontend Developer,4,22.9,,Zoho,Mid-size,"Python, Deep Learning, SQL, Pandas, PostgreSQL, Java",MG Road,Tier 2,2021,Work from Office
+BLR0833,DS,7,₹36.3 LPA,28.3 LPA,AgriTech Labs,EARLY-STAGE,"Agile, ML, PowerBI, Excel, Spring Boot, AWS",Marathahalli,Tier 2,2023,WFH
+BLR0210,SRE,3,23.9,18.6,Ola,Unicorn,"Docker, Python, PostgreSQL, TensorFlow, Redis, Agile",Outer Ring Road,3,2021,WFH
+BLR0798,ML Engineer,6,25.8,17.3 LPA,TechCrush Labs,early-stage,"NumPy, Java, Spring Boot",HSR Layout,2,2022,Remote
+BLR0701,BA,4,24.9 LPA,20.2 LPA,Razorpay,Unicorn,"Kafka, Microservices, TensorFlow, React, Spring Boot",MG Road,Tier-3,2024,Remote
+BLR0308,Frontend Developer,8,"2,930,000",21.9 LPA,Postman,Mid-size,"MongoDB, NumPy, JavaScript, JIRA, Microservices, PowerBI, PostgreSQL",MG Road,Tier 2,2023,Hybrid
+BLR0223,DS,2,"2,030,000",12.6 LPA,Microsoft India,MNC,"MongoDB, Java, Kubernetes, Redis",HSR Layout,Tier 2,2023,WFH
+BLR0073,BA,3,16.7,11.2,HCL,MNC,"Azure, Agile, JavaScript, Python, MongoDB",Indiranagar,Tier 2,2021,Remote
+BLR0826,DevOps,1,16.4 LPA,12.7 LPA,Chargebee,mid-size,"AWS, Deep Learning, Kubernetes, GCP, React, JIRA",Outer Ring Road,1,2024,Remote
+BLR0292,UI/UX,2,"1,590,000",12.4 LPA,TechCrush Labs,Early-stage,"Pandas, ML, Docker",Indiranagar,Tier-1,2024,Hybrid (3 days)
+BLR0035,Infra Engineer,2,₹25.0 LPA,18.7,Unacademy,Unicorn,"PostgreSQL, Microservices, Kafka",Marathahalli,T1,2023,Onsite
+BLR0233,DA,4,19.7 LPA,,Infosys,MNC,"React, NumPy, Figma, Excel, Pandas, Spring Boot",HSR Layout,Tier-1,2024,Hybrid
+BLR0313,Site Reliability Engineer,3,24.1 LPA,20.0,Zoho,Mid-size,"Kafka, Kubernetes, Redis, Docker, AWS, Java, TensorFlow",Marathahalli,Tier-2,2023,Hybrid
+BLR0597,Product Designer,4,28.0 LPA,23.1 LPA,Razorpay,unicorn,"Sketch, Azure, Spring Boot, Kubernetes",,T2,2022,Hybrid
+BLR0814,BE,2,15.3,,QuickPay AI,Early-stage,"Kafka, PowerBI, React",Sarjapur,Tier 1,2023,Remote
+BLR0409,Designer,1,12.5,7.9 LPA,Wipro,MNC,"TensorFlow, Pandas, Deep Learning",Whitefield,3,2023,Hybrid (3 days)
+BLR0921,Data Scientist,2,₹24.2 LPA,18.0 LPA,Accenture,MNC,"Figma, JavaScript, GCP, System Design, Sketch, Microservices, Kafka",Sarjapur,T2,2023,Work from Office
+BLR0613,FE,7,23.6 LPA,,TechCrush Labs,early-stage,"Redis, PostgreSQL, JavaScript, Azure",Koramangala,T2,2024,Work from Office
+BLR0305,Product Designer,1,"1,210,000",10.0,Microsoft India,MNC,"Node.js, Sketch, Python, System Design, Spring Boot, NumPy, Agile",Koramangala,Tier-2,2024,WFH
+BLR0297,DevOps Engineer,0,10.2 LPA,,BrowserStack,MID-SIZE,"NumPy, Microservices, JIRA, Java, JavaScript, React",Koramangala,Tier 2,2024,Hybrid
+BLR0069,Frontend Dev,5,"2,800,000",18.9 LPA,Infosys,MNC,"Kafka, System Design, Node.js, PostgreSQL, Microservices",Koramangala,T2,2023,Onsite
+BLR0005,Sr PM,1,15.4,10.2,EdMint,Early-stage,"Figma, JavaScript, React",Outer Ring Road,Tier-3,2024,Hybrid (3 days)
+BLR0838,DS,3,29.0 LPA,22.2,IBM,MNC,"Node.js, PyTorch, AWS, React, Agile, Deep Learning",Jayanagar,Tier 3,2022,Hybrid (3 days)
+BLR0011,Backend Developer,2,16.1,13.1 LPA,MoEngage,Mid-size,"Microservices, Spring Boot, Pandas, React, AWS, Docker, Kafka",Indiranagar,Tier 2,2022,Remote
+BLR0683,Data Analyst,2,15.8 LPA,12.2 LPA,Swiggy,Unicorn,,Koramangala,Tier 3,2022,WFH
+BLR0130,Infra Engineer,3,16.7,14.1,SaasGo,Early-stage,"MongoDB, PostgreSQL, Figma, GCP",Koramangala,Tier 1,2021,Remote
+BLR0638,Backend Dev,1,17.9,13.7 LPA,PhonePe,Unicorn,"MongoDB, Azure, Microservices, Spring Boot",Outer Ring Road,2,2023,Hybrid
+BLR0087,BA,4,29.8 LPA,,PhonePe,Unicorn,"TensorFlow, System Design, JIRA, Sketch",MG Road,T2,2024,Work from Office
+BLR0950,SDE Frontend,1,"1,040,000",8.5,MoEngage,Mid-size,"Tableau, Java, NumPy, React, PyTorch, Azure, Python",Electronic City,2,2024,Work from Office
+BLR0901,ML Engineer,7,53.8 LPA,,IBM,MNC,"Agile, SQL, Deep Learning, Pandas, GCP, Microservices, Kubernetes",Indiranagar,Tier-2,2023,Remote
+BLR0879,BI Analyst,6,"2,990,000",24.2 LPA,Razorpay,Unicorn,"Spring Boot, Tableau, Kafka",Koramangala,3,2020,Remote
+BLR0336,ML Engineer,0,12.2 LPA,,HCL,MNC,"NumPy, Tableau, Docker, AWS",Electronic City,2,2024,Hybrid (3 days)
+BLR0098,Product Manager,2,"3,140,000",23.2 LPA,Cognizant,MNC,"Figma, ML, Java, Tableau, MongoDB, AWS",Whitefield,Tier 2,2023,Hybrid
+BLR0617,PM,4,30.5 LPA,24.5 LPA,FinNova,early-stage,"Kubernetes, PowerBI, PostgreSQL",Koramangala,Tier 2,2022,Work from Office
+BLR0258,Site Reliability Engineer,2,11.0 LPA,,SaasGo,Early-stage,"Spring Boot, JIRA, Excel",Bellandur,3,2023,Remote
+BLR0536,Data Science Engineer,3,27.0 LPA,19.0 LPA,Infosys,MNC,"PyTorch, ML, SQL, Excel, Microservices, JIRA",Bellandur,2,2022,Remote
+BLR0051,Business Analyst,2,20.0 LPA,14.2,Ola,unicorn,"Kubernetes, Excel, React",Sarjapur,2,2024,Work from Office
+BLR0177,Infra Engineer,3,17.5,13.1 LPA,Chargebee,Mid-size,"Docker, PyTorch, Node.js, Microservices",Indiranagar,Tier 3,2022,Remote
+BLR0662,Infra Engineer,5,25.4 LPA,18.4,Amazon India,MNC,"Spring Boot, Azure, Node.js",HSR Layout,Tier 3,2020,Work from Office
+BLR0261,Designer,2,13.4 LPA,10.1,MoEngage,Mid-size,"Figma, TensorFlow, Python, Docker, Redis, PyTorch, Deep Learning",Electronic City,Tier 3,2023,Remote
+BLR0253,Business Systems Analyst,2,₹14.9 LPA,11.2,MoEngage,Mid-size,"Docker, PowerBI, Redis, JIRA, Microservices",Whitefield,Tier-3,2024,Onsite
+BLR0125,SRE,7,49.5 LPA,38.2,Swiggy,Unicorn,"Java, NumPy, PowerBI, Python",Indiranagar,1,2024,Remote
+BLR0309,SDE-Frontend,1,₹16.3 LPA,12.7,HCL,MNC,"SQL, Pandas, Tableau, ML, Spring Boot, JavaScript, Kubernetes",Bellandur,T2,2024,Remote
+BLR0013,SDE Frontend,3,22.6,,Wipro,MNC,"Sketch, Azure, ML",Outer Ring Road,2,2022,Hybrid
+BLR0445,SDE FS,3,25.8,21.5 LPA,Walmart Labs,MNC,"System Design, Docker, Spring Boot, Excel, JavaScript, Java",Whitefield,Tier 1,2021,Hybrid (3 days)
+BLR0673,SDE Frontend,1,11.7,9.5 LPA,TCS,mnc,"Java, SQL, Excel, Python, Kafka, AWS, Node.js",Electronic City,Tier-3,2024,Hybrid
+BLR0192,Product Designer,1,12.5 LPA,9.4,MoEngage,Mid-size,"Azure, Deep Learning, React",Sarjapur,Tier-2,2024,Hybrid
+BLR0462,Data Science Engineer,1,15.7,9.9,Wipro,MNC,"System Design, JavaScript, React, PyTorch, JIRA, MongoDB, Kafka",Indiranagar,T3,2023,WFH
+BLR0508,Product Lead,2,31.5 LPA,23.7 LPA,Infosys,MNC,"Kubernetes, System Design, Kafka, SQL",,T2,2022,Hybrid (3 days)
+BLR0476,Product Manager,4,50.3 LPA,35.5 LPA,Razorpay,Unicorn,"AWS, Pandas, JIRA, Docker, Figma, Microservices, JavaScript",HSR Layout,2,2021,Remote
+BLR0528,Designer,2,15.2 LPA,9.7 LPA,Infosys,MNC,"Microservices, System Design, Node.js, Pandas, React, PyTorch, PowerBI",Outer Ring Road,Tier 2,2023,Hybrid
+BLR0570,PM,1,22.1 LPA,17.2 LPA,HCL,MNC,"PyTorch, React, Figma, Excel, Redis, System Design, Python",Jayanagar,2,2024,Hybrid
+BLR0692,BE,0,10.9,,Accenture,MNC,"PowerBI, Python, System Design",Outer Ring Road,Tier 1,2024,Onsite
+BLR0489,DA,1,11.7,9.8 LPA,Chargebee,MID-SIZE,"Spring Boot, PyTorch, System Design, PostgreSQL",HSR Layout,Tier-1,2023,WFH
+BLR0567,Site Reliability Engineer,2,29.2 LPA,18.1,Ola,unicorn,"Redis, TensorFlow, Deep Learning, Figma, JavaScript, ML",Whitefield,Tier 2,2023,Onsite
+BLR0329,Data Science Engineer,2,21.8,16.6 LPA,Accenture,MNC,"JIRA, Excel, Figma, Kafka, Spring Boot",Indiranagar,1,2023,Work from Office
+BLR0953,Data Scientist,5,₹33.0 LPA,25.7,TCS,MNC,"PostgreSQL, System Design, Tableau, TensorFlow, SQL, Agile",Electronic City,Tier-3,2024,Remote
+BLR0254,UI/UX,0,7.0 LPA,,Zoho,MID-SIZE,"Figma, Python, Azure, TensorFlow, Spring Boot",MG Road,Tier-2,2024,Work from Office
+BLR0562,Product Lead,5,40.3,32.0,TechCrush Labs,Early-stage,"ML, Python, PowerBI, TensorFlow, SQL, NumPy, Kubernetes",Outer Ring Road,2,2020,Work from Office
+BLR0618,DS,4,42.7,,BYJU'S,Unicorn,"Kubernetes, JIRA, Redis, Figma, Deep Learning, PyTorch",HSR Layout,T2,2023,Hybrid (3 days)
+BLR0603,Data Scientist,2,23.9 LPA,17.0,Chargebee,Mid-size,"JavaScript, Figma, Azure, PostgreSQL, System Design, SQL, PowerBI",Electronic City,Tier-1,2022,Onsite
+BLR0159,Frontend Developer,7,32.2 LPA,,Walmart Labs,MNC,"TensorFlow, SQL, Figma, React, AWS",Indiranagar,Tier-3,2022,Onsite
+BLR0849,UI/UX,3,27.1,20.5 LPA,Flipkart,Unicorn,"Deep Learning, Excel, ML, Spring Boot",Koramangala,T3,2023,Work from Office
+BLR0605,DevOps Engineer,8,60.3,47.2,HCL,MNC,"PyTorch, Deep Learning, Agile, ML, Kubernetes, Kafka",Jayanagar,T1,2022,WFH
+BLR0735,Business Systems Analyst,4,21.8,16.2 LPA,HCL,MNC,"Figma, Kafka, Tableau, Azure",Bellandur,T3,2024,Work from Office
+BLR0387,Product Lead,4,41.1,25.3,Chargebee,Mid-size,"Docker, Java, Deep Learning",Whitefield,Tier 1,2024,Remote
+BLR0354,SRE,1,13.4 LPA,,Cognizant,MNC,"NumPy, Redis, Azure, Agile, Java",Outer Ring Road,Tier 2,2024,Hybrid
+BLR0194,BI Analyst,2,17.8,11.8,Flipkart,Unicorn,"NumPy, Python, Deep Learning",Electronic City,2,2022,Hybrid (3 days)
+BLR0182,FE,4,19.5,12.4 LPA,Freshworks,Mid-size,"JavaScript, Docker, Redis, Microservices, JIRA, Excel, Java",Sarjapur,Tier-3,2020,Hybrid
+BLR0763,DA,3,17.8 LPA,,Google India,mnc,"PyTorch, System Design, Sketch, Microservices",Sarjapur,Tier 3,2024,WFH
+BLR0598,DevOps Engineer,12,₹40.8 LPA,34.1,SaasGo,Early-stage,"SQL, React, JIRA, Excel, Azure, Figma",Whitefield,Tier-3,2022,WFH
+BLR0583,Site Reliability Engineer,5,₹26.8 LPA,,Postman,Mid-size,"Kubernetes, ML, Excel",Marathahalli,T3,2021,Hybrid (3 days)
+BLR0465,Business Systems Analyst,2,₹10.9 LPA,7.0,DataMint,Early-stage,"Node.js, Kubernetes, Sketch",Marathahalli,Tier-3,2024,Work from Office
+BLR0075,Backend Engineer,3,23.5 LPA,17.9 LPA,Google India,MNC,"Java, Docker, Deep Learning",Jayanagar,Tier-3,2022,Hybrid (3 days)
+BLR0408,Business Systems Analyst,4,₹20.0 LPA,16.4,Hasura,Mid-size,"Python, Excel, AWS, Kafka, MongoDB, Agile",Marathahalli,3,2020,Hybrid
+BLR0427,Frontend Dev,2,₹17.6 LPA,12.8 LPA,TCS,MNC,"React, Node.js, TensorFlow, NumPy, Kubernetes, Excel, JIRA",Outer Ring Road,1,2023,Remote
+BLR0394,DevOps Engineer,6,₹29.7 LPA,25.2,Accenture,MNC,"React, Excel, Docker, Agile, MongoDB, Microservices",MG Road,Tier 3,2021,WFH
+BLR0767,SDE-Backend,5,25.0,19.9,TechCrush Labs,Early-stage,"Python, Excel, ML",Sarjapur,Tier-2,2022,Onsite
+BLR0132,SRE,6,28.3 LPA,19.3,Freshworks,Mid-size,"Node.js, Azure, Redis",Electronic City,Tier-1,2024,Work from Office
+BLR0635,DA,1,"1,090,000",6.8 LPA,Infosys,MNC,"Figma, PowerBI, Kafka",Koramangala,Tier-2,2023,Hybrid (3 days)
+BLR0578,Product Designer,3,19.7 LPA,13.1,Hasura,Mid-size,"Docker, Kafka, JavaScript, Tableau, MongoDB, Excel",Marathahalli,1,2021,Onsite
+BLR0978,SDE Full-Stack,1,13.7,10.4,Amazon India,MNC,"Pandas, PyTorch, Docker",Outer Ring Road,Tier 2,2023,Work from Office
+BLR0850,DevOps Engineer,7,"5,610,000",36.8 LPA,Swiggy,Unicorn,"Azure, Spring Boot, Excel, AWS, NumPy, Sketch",HSR Layout,1,2023,Remote
+BLR0897,Frontend Developer,2,"1,250,000",8.0 LPA,Freshworks,Mid-size,"Python, Redis, Excel, Node.js, Microservices",HSR Layout,Tier 3,2023,Onsite
+BLR0397,FullStack,4,32.8,20.1 LPA,Wipro,MNC,"MongoDB, System Design, Python, ML",Whitefield,T2,2021,Remote
+BLR0538,SDE-Backend,4,25.5,20.6 LPA,Chargebee,Mid-size,"NumPy, MongoDB, Java, Kubernetes, System Design, JIRA",Bellandur,T2,2024,Onsite
+BLR0620,Business Analyst,3,15.8,10.3 LPA,FinNova,Early-stage,"ML, Agile, JavaScript",Koramangala,Tier-2,2022,Hybrid (3 days)
+BLR0191,UI/UX,7,44.1,31.8 LPA,Swiggy,Unicorn,"NumPy, Agile, Deep Learning, Excel",Bellandur,2,2021,Hybrid
+BLR0263,SDE Frontend,8,35.7 LPA,29.8,Chargebee,Mid-size,"System Design, JavaScript, Spring Boot, JIRA, Java, Excel, React",Sarjapur,T3,2022,Onsite
+BLR0052,Data Science Engineer,3,25.5 LPA,,Cognizant,MNC,"TensorFlow, MongoDB, JavaScript, Kubernetes, Agile, Figma",Koramangala,T2,2021,Hybrid
+BLR0139,Business Analyst,7,42.1 LPA,30.4,TCS,MNC,"TensorFlow, AWS, System Design, Sketch",Electronic City,Tier 2,2020,Hybrid
+BLR0846,Analytics Engineer,6,26.2 LPA,16.7,BrowserStack,Mid-size,"Pandas, AWS, System Design",Bellandur,Tier 3,2021,WFH
+BLR0839,SRE,4,32.2 LPA,21.8,PhonePe,Unicorn,"Tableau, MongoDB, Pandas",Bellandur,Tier 2,2024,Hybrid (3 days)
+BLR0581,Backend Dev,1,11.7,8.4,AgriTech Labs,Early-stage,"JavaScript, Agile, PostgreSQL, Azure, ML, PowerBI, Microservices",Sarjapur,Tier-2,2024,Hybrid (3 days)
+BLR0318,Analytics Engineer,3,18.8,13.5 LPA,Wipro,MNC,"PostgreSQL, React, Tableau, Figma, Microservices, System Design",Koramangala,T1,2021,Hybrid (3 days)
+BLR0596,Backend Dev,6,46.8 LPA,37.7,Zomato,Unicorn,"MongoDB, Sketch, PowerBI, Tableau, Node.js, System Design, Kubernetes",Jayanagar,Tier 2,2021,Hybrid
+BLR0382,Fullstack Dev,2,24.5 LPA,17.2 LPA,IBM,MNC,"Pandas, Java, Kubernetes, React, Spring Boot, Agile, AWS",Marathahalli,Tier 1,2022,Onsite
+BLR0133,DA,3,15.0,9.0 LPA,MoEngage,Mid-size,"MongoDB, Sketch, Tableau, PostgreSQL",Electronic City,Tier-1,2021,Remote
+BLR0076,Full Stack Engineer,3,17.3,10.9 LPA,TechCrush Labs,Early-stage,"React, Docker, Node.js, Sketch, Kubernetes, Spring Boot, Azure",Indiranagar,3,2024,Work from Office
+BLR0752,BI Analyst,1,18.0,14.1 LPA,BYJU'S,Unicorn,"JIRA, ML, Docker, AWS",Bellandur,T1,2024,Hybrid
+BLR0291,Analytics Engineer,4,17.0 LPA,13.7,Freshworks,Mid-size,"Kafka, React, Python, NumPy, Docker",Jayanagar,2,2020,Work from Office
+BLR0755,BA,0,7.6,,Postman,Mid-size,"JIRA, PowerBI, System Design, Agile",Indiranagar,Tier 3,2024,Remote
+BLR0999,SDE FS,4,24.8 LPA,16.5,EdMint,Early-stage,"Python, MongoDB, Figma, Kubernetes, Redis, System Design",Outer Ring Road,1,2021,Work from Office
+BLR0796,Business Analyst,5,20.6,14.9 LPA,BrowserStack,Mid-size,"Microservices, Excel, MongoDB, Kafka, Java, PyTorch",Sarjapur,T3,2020,Hybrid
+BLR0619,FullStack,2,17.0,13.7,Walmart Labs,MNC,"PowerBI, Agile, Node.js, AWS",Marathahalli,T2,2023,Work from Office
+BLR0123,Business Analyst,0,7.1 LPA,,DataMint,Early-stage,"Sketch, System Design, Docker, Node.js",Sarjapur,Tier 3,2024,Onsite
+BLR0413,Fullstack Dev,5,24.6,14.8 LPA,MoEngage,Mid-size,"React, JavaScript, JIRA, Redis, Python, Agile",HSR Layout,T2,2022,Hybrid
+BLR0780,Data Scientist,2,₹18.4 LPA,13.6 LPA,Chargebee,Mid-size,"ML, TensorFlow, SQL",Marathahalli,T2,2023,Work from Office
+BLR0040,UI Designer,2,18.9,15.4,Ola,unicorn,"Python, MongoDB, React, TensorFlow, System Design, Sketch",Sarjapur,3,2023,Hybrid (3 days)
+BLR0439,UI/UX,1,15.4 LPA,10.8 LPA,Meesho,Unicorn,"Figma, Java, Azure, Deep Learning, PyTorch, Microservices",Koramangala,Tier-2,2023,Onsite
+BLR0237,DevOps,3,"2,089,999",,Google India,MNC,"Deep Learning, Tableau, SQL, PostgreSQL",Marathahalli,T2,2022,Onsite
+BLR0131,Business Systems Analyst,1,13.3 LPA,11.1,Zomato,Unicorn,,MG Road,Tier 3,2023,WFH
+BLR0203,SDE Backend,4,21.3,14.7 LPA,TCS,MNC,"Figma, GCP, Node.js, Tableau, JIRA, Azure, Kafka",Indiranagar,2,2021,Work from Office
+BLR0156,PM,0,16.2 LPA,,QuickPay AI,Early-stage,"System Design, Excel, JIRA, Docker, Figma, Microservices, JavaScript",Jayanagar,2,2024,Hybrid
+BLR0421,UI/UX,0,"800,000",,Microsoft India,MNC,"Java, Agile, Spring Boot, Sketch, Tableau",Electronic City,1,2024,Hybrid
+BLR0706,SDE Frontend,4,"3,060,000",20.6 LPA,TCS,MNC,,Indiranagar,1,2023,Work from Office
+BLR0284,Site Reliability Engineer,3,28.4,21.6 LPA,Cred,UNICORN,"Deep Learning, JIRA, Pandas",Bellandur,3,2022,Hybrid (3 days)
+BLR0379,Backend Dev,5,33.9 LPA,24.8 LPA,IBM,MNC,"Figma, MongoDB, Kubernetes, Azure",Marathahalli,T1,2024,Remote
+BLR0858,Data Science Engineer,7,₹46.0 LPA,32.6 LPA,MoEngage,Mid-size,"Deep Learning, SQL, PowerBI, NumPy, Pandas, AWS",Koramangala,Tier-2,2024,Hybrid (3 days)
+BLR0746,SDE Full-Stack,1,"1,070,000",7.0 LPA,SaasGo,Early-stage,"Redis, SQL, Java, Kafka, ML",Marathahalli,2,2024,Hybrid (3 days)
+BLR0511,Data Analyst,0,8.0 LPA,,Capgemini,MNC,"Python, Agile, MongoDB, Kafka, Tableau, Excel",Whitefield,Tier-1,2024,Onsite
+BLR0740,Product Lead,1,21.8 LPA,16.5,BrowserStack,Mid-size,"PyTorch, GCP, Deep Learning, PostgreSQL, Java, Excel, Kafka",Indiranagar,Tier-2,2023,Hybrid
+BLR0888,UI/UX,0,₹6.2 LPA,,FinNova,Early-stage,"Spring Boot, Python, SQL, ML",Whitefield,3,2024,Onsite
+BLR0721,Designer,4,18.6 LPA,15.4,QuickPay AI,Early-stage,"JavaScript, Azure, Docker",Whitefield,Tier-1,2020,Hybrid
+BLR0122,Business Systems Analyst,4,23.4 LPA,14.3 LPA,TCS,MNC,"AWS, TensorFlow, Kafka, Agile, Pandas, GCP",,T2,2021,Hybrid
+BLR0834,DevOps Engineer,4,28.2 LPA,17.3,BYJU'S,Unicorn,"Sketch, PostgreSQL, React",Marathahalli,Tier 2,2020,WFH
+BLR0560,Site Reliability Engineer,7,52.0,35.5,Swiggy,Unicorn,"Kubernetes, PostgreSQL, MongoDB",Electronic City,T1,2022,Hybrid (3 days)
+BLR0523,Full Stack Engineer,6,44.8,,Meesho,Unicorn,"SQL, PyTorch, System Design",Indiranagar,2,2022,Work from Office
+BLR0943,SDE FS,5,39.9 LPA,24.5,Zomato,Unicorn,"System Design, Node.js, Redis",HSR Layout,Tier 2,2023,WFH
+BLR0410,Product Manager,7,32.9 LPA,22.6,AgriTech Labs,Early-stage,"JIRA, PyTorch, Sketch",Outer Ring Road,2,2021,WFH
+BLR0728,Data Analyst,6,"1,689,999",12.3 LPA,DataMint,Early-stage,"Python, Microservices, Figma, NumPy",Koramangala,Tier-2,2023,Remote
+BLR0017,Business Analyst,2,₹16.4 LPA,13.7 LPA,Postman,Mid-size,"Deep Learning, Kubernetes, GCP, Figma",Electronic City,3,2023,Remote
+BLR0696,DS,4,19.4 LPA,15.3 LPA,TechCrush Labs,EARLY-STAGE,"Kubernetes, PostgreSQL, Spring Boot",Sarjapur,2,2022,WFH
+BLR0286,Business Systems Analyst,4,32.8 LPA,27.7,PhonePe,Unicorn,"Kubernetes, Excel, JIRA, NumPy, SQL, Microservices",Marathahalli,Tier-1,2024,Hybrid (3 days)
+BLR0948,Product Lead,3,23.6 LPA,17.1 LPA,QuickPay AI,Early-stage,"PyTorch, Kafka, Java, Microservices, Node.js, PowerBI",Indiranagar,Tier 2,2022,Hybrid
+BLR0451,SDE-Frontend,4,19.5 LPA,14.6 LPA,Cognizant,MNC,"Redis, Node.js, JIRA, Docker, Python, Sketch",Outer Ring Road,Tier 2,2020,Hybrid
+BLR0546,Frontend Dev,6,21.9,17.1 LPA,DataMint,Early-stage,"Python, MongoDB, SQL",Jayanagar,Tier-2,2020,Hybrid (3 days)
+BLR0082,SDE FS,7,"4,720,000",36.3,Unacademy,Unicorn,"Excel, MongoDB, Kafka, Docker, PowerBI, Kubernetes",Sarjapur,Tier-2,2020,Remote
+BLR0514,Sr PM,5,31.1 LPA,22.7,TechCrush Labs,Early-stage,"Excel, TensorFlow, Figma, Python, GCP, Spring Boot, AWS",HSR Layout,Tier-3,2024,Hybrid (3 days)
+BLR0262,BI Analyst,3,19.7 LPA,14.0 LPA,Postman,Mid-size,"PostgreSQL, AWS, NumPy, Kubernetes, Microservices, Spring Boot, Node.js",Whitefield,Tier 1,2022,Remote
+BLR0436,SDE FS,3,18.3,15.5,BrowserStack,Mid-size,"PyTorch, Redis, React, Kubernetes, Docker",Marathahalli,Tier-3,2023,Remote
+BLR0716,Data Scientist,12,73.5,59.2,Zomato,Unicorn,"JavaScript, Tableau, React, Kafka, Excel, NumPy",Bellandur,Tier-2,2021,Hybrid (3 days)
+BLR0980,Frontend Developer,6,"2,680,000",,Infosys,MNC,"Microservices, MongoDB, Sketch, Tableau",Koramangala,T2,2023,Remote
+BLR0364,Sr PM,6,61.4 LPA,,HCL,mnc,"Azure, GCP, System Design, Java, ML, Figma",Koramangala,Tier 2,2024,Hybrid
+BLR0361,PM,1,25.0,16.8 LPA,DataMint,Early-stage,"Tableau, Deep Learning, Spring Boot, ML",Electronic City,T2,2024,Hybrid
+BLR0867,SDE-Frontend,5,₹27.3 LPA,20.0,Infosys,MNC,"Sketch, MongoDB, Figma, ML",Koramangala,T3,2023,Hybrid (3 days)
+BLR0998,FullStack,2,12.8 LPA,10.3 LPA,EdMint,Early-stage,"Excel, Python, PostgreSQL",MG Road,Tier-2,2024,Onsite
+BLR0707,UX Designer,2,15.7 LPA,12.9 LPA,TCS,MNC,"NumPy, Excel, Redis, SQL, Kubernetes",Koramangala,Tier-1,2022,Hybrid (3 days)
+BLR0799,Designer,6,21.7 LPA,15.7,AgriTech Labs,early-stage,,Bellandur,2,2020,Work from Office
+BLR0326,Business Analyst,4,16.4,11.6,SaasGo,Early-stage,"Redis, Docker, Java, React, Figma, Python",Electronic City,T3,2020,WFH
+BLR0385,FullStack,2,19.0 LPA,14.7 LPA,Google India,MNC,"PowerBI, Docker, MongoDB, TensorFlow, PostgreSQL, Sketch",Whitefield,1,2024,Remote
+BLR0249,Data Scientist,10,55.0,36.1,MoEngage,Mid-size,"Kafka, Redis, JIRA",Koramangala,1,2020,WFH
+BLR0301,Product Manager,2,₹24.7 LPA,17.0,TCS,MNC,"Microservices, Tableau, Agile, JIRA, PowerBI, Pandas",Bellandur,Tier 3,2023,Remote
+BLR0804,Designer,1,11.8 LPA,9.5,Microsoft India,MNC,"SQL, Python, AWS",Outer Ring Road,Tier-3,2023,Onsite
+BLR0001,SDE Frontend,5,28.4,19.0,Wipro,MNC,"Java, PowerBI, TensorFlow, SQL, Python, Agile, AWS",Koramangala,T2,2023,Onsite
+BLR0878,Analytics Engineer,1,9.2 LPA,6.2 LPA,TCS,MNC,"Node.js, React, Sketch, Pandas",Sarjapur,T3,2023,Onsite
+BLR0665,PM,1,"2,660,000",16.2,Zomato,Unicorn,"ML, PyTorch, JIRA",Koramangala,Tier-2,2023,Hybrid
+BLR0910,BI Analyst,4,18.8,15.7,Cognizant,mnc,"PowerBI, Agile, Redis, Python, Spring Boot, SQL, JavaScript",Outer Ring Road,2,2023,Work from Office
+BLR0625,Product Manager,4,37.9,25.7,Freshworks,Mid-size,"GCP, AWS, Spring Boot, Excel, PyTorch, Docker",HSR Layout,Tier 1,2020,Hybrid (3 days)
+BLR0256,Business Systems Analyst,2,11.0 LPA,8.2,FinNova,Early-stage,"TensorFlow, Excel, Python, PowerBI",Outer Ring Road,3,2024,Hybrid
+BLR0061,Frontend Dev,4,38.4 LPA,,Ola,Unicorn,"NumPy, Excel, Node.js, ML, Figma, Docker, Deep Learning",Sarjapur,Tier 2,2021,Work from Office
+BLR0722,ML Engineer,4,32.7 LPA,,Zomato,Unicorn,"Spring Boot, Agile, Python, Excel, Kafka, SQL",Bellandur,Tier 3,2021,Hybrid
+BLR0994,Frontend Developer,5,25.5,15.9 LPA,Microsoft India,MNC,"PowerBI, PostgreSQL, Azure",Jayanagar,Tier-1,2020,Onsite
+BLR0463,UX Designer,3,31.8,22.5,Cred,Unicorn,"System Design, Deep Learning, MongoDB",MG Road,T1,2023,Remote
+BLR0584,FullStack,1,16.5,12.1 LPA,FinNova,Early-stage,,Outer Ring Road,1,2024,Hybrid (3 days)
+BLR0273,Infra Engineer,6,27.3,19.2,Freshworks,MID-SIZE,"JIRA, Tableau, Node.js",Outer Ring Road,Tier 1,2022,Onsite
+BLR0565,SDE FS,2,₹22.3 LPA,14.1,BYJU'S,Unicorn,"AWS, Docker, Node.js, TensorFlow",MG Road,T2,2024,WFH
+BLR0188,SDE-Backend,5,34.0 LPA,21.3,IBM,MNC,"Microservices, AWS, NumPy",Electronic City,Tier-2,2022,Work from Office
+BLR0010,DS,1,"1,730,000",12.5 LPA,HCL,MNC,"Azure, Figma, Java, PyTorch, Redis, Tableau",Indiranagar,Tier 2,2023,WFH
+BLR0255,Sr PM,6,60.8 LPA,49.6,Swiggy,UNICORN,"System Design, Python, React",Bellandur,Tier-2,2020,Hybrid
+BLR0373,Fullstack Dev,4,27.6 LPA,17.7,Amazon India,mnc,"Microservices, Azure, Spring Boot, PyTorch, React, Pandas, GCP",Indiranagar,Tier 1,2024,WFH
+BLR0470,Business Analyst,0,10.7 LPA,,Infosys,mnc,"ML, Sketch, Docker, Redis",Outer Ring Road,T2,2024,Onsite
+BLR0229,DevOps,0,9.7 LPA,,AgriTech Labs,Early-stage,"NumPy, Spring Boot, JavaScript, Kubernetes, Pandas, Excel",HSR Layout,Tier-1,2024,Hybrid (3 days)
+BLR0899,Frontend Dev,2,15.5,11.6,DataMint,early-stage,"Redis, ML, Python, SQL, Sketch, AWS",Koramangala,Tier-2,2024,WFH
+BLR0503,BA,2,13.8 LPA,11.7,Microsoft India,MNC,"NumPy, React, Kafka, PyTorch, Docker, JavaScript",Outer Ring Road,Tier 3,2024,Hybrid (3 days)
+BLR0600,BI Analyst,2,14.0 LPA,8.8 LPA,Microsoft India,MNC,"Deep Learning, Kafka, Sketch",Outer Ring Road,Tier-3,2023,Hybrid
+BLR0836,Designer,1,13.9 LPA,,Zoho,Mid-size,"Kafka, GCP, Java, Excel, Deep Learning, Agile, Node.js",Koramangala,T1,2023,WFH
+BLR0611,Product Manager,2,25.1 LPA,19.8 LPA,Google India,MNC,"Sketch, JIRA, Python, Pandas, Kubernetes, Node.js, SQL",Whitefield,3,2024,Hybrid
+BLR0418,SRE,5,"2,500,000",15.4 LPA,DataMint,Early-stage,"SQL, React, AWS, TensorFlow",Indiranagar,2,2020,Work from Office
+BLR0221,SDE FS,12,"7,090,000",47.0,Cognizant,MNC,"Kubernetes, Figma, ML, TensorFlow, PostgreSQL, System Design, JIRA",Whitefield,T2,2021,Hybrid (3 days)
+BLR0383,Frontend Developer,7,26.9 LPA,19.0 LPA,TechCrush Labs,Early-stage,"Node.js, AWS, PostgreSQL, TensorFlow, GCP, Sketch, Redis",Koramangala,Tier-2,2021,Hybrid (3 days)
+BLR0762,Business Analyst,3,22.2,17.5,Freshworks,MID-SIZE,"JavaScript, Deep Learning, React",MG Road,Tier 1,2023,Remote
+BLR0944,SDE Backend,0,"790,000",,Hasura,MID-SIZE,"Python, Java, MongoDB",Outer Ring Road,T3,2024,Hybrid
+BLR0868,BA,3,20.9 LPA,14.5,TCS,MNC,"AWS, Java, GCP, Spring Boot, ML, Tableau, Docker",MG Road,Tier-2,2022,WFH
+BLR0147,Analytics Engineer,1,13.0 LPA,8.1,Unacademy,Unicorn,"React, SQL, ML, Python, TensorFlow, Java",Marathahalli,Tier-2,2023,WFH
+BLR0887,Data Scientist,2,19.7,14.4,Google India,MNC,"PostgreSQL, Figma, Spring Boot, JIRA, JavaScript, Java, Pandas",Outer Ring Road,Tier-2,2022,Hybrid (3 days)
+BLR0678,Business Systems Analyst,1,15.7,12.4 LPA,PhonePe,Unicorn,"Sketch, NumPy, PowerBI, Excel, Figma, AWS",,Tier 3,2023,Work from Office
+BLR0303,UX Designer,2,"1,580,000",11.9 LPA,Hasura,mid-size,"Deep Learning, PowerBI, Kubernetes, JavaScript, Redis",Sarjapur,T2,2023,Remote
+BLR0765,DevOps Engineer,5,27.4 LPA,17.3,Chargebee,mid-size,"Azure, PyTorch, JavaScript",Indiranagar,1,2022,Remote
+BLR0754,Business Analyst,2,13.8 LPA,8.5,EdMint,Early-stage,"React, Deep Learning, Agile, Figma, PowerBI, SQL",Outer Ring Road,Tier-2,2022,Hybrid (3 days)
+BLR0012,FE,6,27.5 LPA,20.9 LPA,Microsoft India,MNC,"SQL, Excel, Java, TensorFlow, Microservices, PowerBI, Redis",,T3,2024,Work from Office
+BLR0183,Analytics Engineer,8,₹37.9 LPA,26.6,PhonePe,UNICORN,"Python, PowerBI, Excel",Indiranagar,Tier 2,2020,Hybrid
+BLR0084,Data Science Engineer,3,20.4 LPA,14.0 LPA,MoEngage,Mid-size,"Spring Boot, React, NumPy",MG Road,Tier-2,2022,Hybrid
+BLR0581,Backend Dev,1,11.7,8.4,AgriTech Labs,Early-stage,"JavaScript, Agile, PostgreSQL, Azure, ML, PowerBI, Microservices",Sarjapur,Tier-2,2024,Hybrid (3 days)
+BLR0497,Frontend Dev,5,₹24.3 LPA,17.3,BrowserStack,Mid-size,"Kubernetes, GCP, AWS, Kafka, PowerBI, Docker",Koramangala,2,2021,Work from Office
+BLR0697,DevOps,2,₹16.5 LPA,13.5 LPA,Postman,Mid-size,"ML, Pandas, PostgreSQL, Azure, Tableau",Outer Ring Road,Tier 2,2023,Remote
+BLR0535,PM,2,32.9,25.3 LPA,Walmart Labs,MNC,"NumPy, ML, PostgreSQL, Pandas, Spring Boot, Kubernetes",Bellandur,Tier 3,2023,Onsite
+BLR0343,UI/UX,1,"1,000,000",7.4 LPA,Hasura,Mid-size,"NumPy, AWS, PostgreSQL, Pandas, Agile, Python, JavaScript",Whitefield,Tier 2,2023,WFH
+BLR0260,DevOps,10,52.6 LPA,42.3 LPA,Chargebee,Mid-size,"PostgreSQL, TensorFlow, Agile, Deep Learning, Azure, Microservices",Electronic City,T2,2021,WFH
+BLR0658,ML Engineer,7,40.3,28.6 LPA,Amazon India,MNC,"Azure, System Design, Spring Boot, Java, PyTorch, Sketch, Python",Electronic City,Tier-2,2022,WFH
+BLR0827,BE,5,26.3 LPA,16.4 LPA,BrowserStack,Mid-size,"Kafka, Microservices, SQL, ML, Azure, Python",Bellandur,Tier-3,2023,Remote
+BLR0845,Backend Dev,4,22.0 LPA,17.7,MoEngage,Mid-size,"JIRA, Node.js, React, JavaScript, Java",Jayanagar,Tier 2,2023,WFH
+BLR0869,Full Stack Engineer,0,"1,200,000",,IBM,MNC,"GCP, TensorFlow, AWS, System Design",Jayanagar,Tier-2,2024,Remote
+BLR0391,UX Designer,1,₹13.0 LPA,8.5 LPA,TCS,MNC,"Azure, Agile, AWS, Node.js, PostgreSQL, Microservices, Spring Boot",Sarjapur,Tier 2,2023,Remote
+BLR0610,FullStack,7,₹30.8 LPA,23.4 LPA,AgriTech Labs,Early-stage,"Java, Sketch, ML, Node.js, React",Marathahalli,T2,2024,Remote
+BLR0334,Product Lead,7,₹31.3 LPA,19.3,QuickPay AI,Early-stage,,Whitefield,Tier 3,2023,Hybrid (3 days)
+BLR0224,SDE-Frontend,5,₹19.6 LPA,15.4,TechCrush Labs,Early-stage,"SQL, Docker, NumPy, Agile, Kubernetes, Tableau",Electronic City,T2,2024,WFH
+BLR0276,BE,2,14.8,11.9,DataMint,Early-stage,"Azure, Sketch, PowerBI, React, JIRA, Python, TensorFlow",MG Road,Tier-1,2024,Remote
+BLR0288,SDE FS,3,18.6 LPA,14.1,Postman,Mid-size,"Docker, Tableau, Pandas, SQL, Kafka, Agile",Electronic City,Tier-2,2024,WFH
+BLR0271,BI Analyst,4,17.8 LPA,14.9,MoEngage,Mid-size,"React, System Design, GCP, NumPy",Whitefield,T2,2022,Work from Office
+BLR0689,SDE-Backend,0,9.3,,EdMint,early-stage,"SQL, Pandas, Redis, ML, Deep Learning, Tableau",Whitefield,T1,2024,WFH
+BLR0200,BA,2,14.4,8.9,Accenture,MNC,"Redis, Kubernetes, TensorFlow, Agile",MG Road,2,2023,Work from Office
+BLR0432,SDE FS,1,12.0 LPA,9.4 LPA,HCL,MNC,"Tableau, Spring Boot, Kafka, GCP, PowerBI, NumPy",Indiranagar,T2,2024,Hybrid (3 days)
+BLR0180,Infra Engineer,6,29.9,23.1,Infosys,MNC,"Kubernetes, NumPy, Java, Agile",HSR Layout,Tier 3,2023,Hybrid (3 days)
+BLR0776,SDE-Backend,3,20.0 LPA,16.5,Google India,MNC,"Java, TensorFlow, SQL",Sarjapur,Tier 2,2024,Hybrid (3 days)
+BLR0651,Designer,2,13.0,10.4,DataMint,Early-stage,"Docker, AWS, Kafka, Kubernetes, NumPy",Koramangala,Tier-2,2024,Hybrid (3 days)
+BLR0059,SDE Full-Stack,1,12.5,8.4 LPA,MoEngage,Mid-size,"PostgreSQL, PowerBI, PyTorch, Microservices, JIRA, System Design, Redis",Marathahalli,2,2024,Remote
+BLR0468,PM,10,54.4 LPA,42.2,AgriTech Labs,Early-stage,"Agile, Sketch, NumPy, Node.js, GCP, Microservices",Marathahalli,Tier-2,2024,Work from Office
+BLR0123,Business Analyst,0,7.1 LPA,,DataMint,Early-stage,"Sketch, System Design, Docker, Node.js",Sarjapur,Tier 3,2024,Onsite
+BLR0640,SDE Frontend,2,15.6,11.3 LPA,FinNova,Early-stage,"Python, Spring Boot, Excel, Docker, Kubernetes, Deep Learning",HSR Layout,Tier-2,2023,Work from Office
+BLR0246,Backend Developer,7,51.3,,BYJU'S,Unicorn,"Docker, PostgreSQL, Kubernetes, React, JIRA, JavaScript, NumPy",Bellandur,Tier 1,2024,Remote
+BLR0018,Frontend Dev,3,21.6,14.7,Zoho,Mid-size,"JavaScript, Deep Learning, Sketch, PowerBI, AWS, GCP, SQL",Sarjapur,T1,2022,WFH
+BLR0137,Frontend Developer,1,"1,330,000",,Freshworks,mid-size,"React, AWS, Kafka, Deep Learning",Sarjapur,Tier 2,2024,WFH
+BLR0836,Designer,1,13.9 LPA,,Zoho,Mid-size,"Kafka, GCP, Java, Excel, Deep Learning, Agile, Node.js",Koramangala,T1,2023,WFH
+BLR0034,Data Science Engineer,1,14.3 LPA,9.6,Wipro,MNC,"Java, SQL, Node.js, Redis",Whitefield,3,2023,WFH
+BLR0571,Full Stack Engineer,4,22.7,17.9 LPA,BrowserStack,Mid-size,"JavaScript, Azure, JIRA, GCP, Node.js, MongoDB, Microservices",Indiranagar,Tier-3,2021,Work from Office
+BLR0016,Product Manager,7,"5,230,000",41.7 LPA,Wipro,MNC,"Sketch, TensorFlow, Python, Node.js",MG Road,Tier-2,2024,Hybrid
+BLR0136,SDE Frontend,1,12.3 LPA,7.5 LPA,Chargebee,Mid-size,"SQL, AWS, Kafka, Figma, Kubernetes, React, Java",Jayanagar,Tier-3,2023,Hybrid
+BLR0402,FE,6,28.0,21.3 LPA,Accenture,MNC,"Agile, React, Excel, Tableau",Electronic City,T2,2021,Hybrid (3 days)
+BLR0416,Product Manager,2,35.8 LPA,,Flipkart,unicorn,"AWS, Docker, Pandas, GCP, JIRA",Indiranagar,2,2024,Onsite
+BLR0484,ML Engineer,7,53.0,44.1,Razorpay,Unicorn,"JIRA, PostgreSQL, Microservices, Sketch, SQL",Electronic City,Tier 1,2021,Hybrid (3 days)
+BLR0995,DA,3,19.5 LPA,15.6,HCL,mnc,"Kafka, System Design, Figma, ML, TensorFlow, GCP",Electronic City,T3,2024,Hybrid (3 days)
+BLR0113,Business Analyst,2,14.8 LPA,10.6 LPA,Hasura,Mid-size,"ML, Python, Pandas, JavaScript",Outer Ring Road,Tier 3,2023,WFH
+BLR0395,BI Analyst,0,6.2 LPA,,DataMint,Early-stage,"Figma, MongoDB, JIRA, Redis",Jayanagar,T3,2024,WFH
+BLR0615,Data Science Engineer,6,28.1 LPA,17.9,MoEngage,Mid-size,"Pandas, Docker, MongoDB, Microservices",Outer Ring Road,Tier-3,2023,Hybrid
+BLR0737,DevOps Engineer,0,10.6 LPA,,Walmart Labs,MNC,"Tableau, PyTorch, JIRA, JavaScript, Microservices",HSR Layout,Tier 2,2024,WFH
+BLR0968,Full Stack Engineer,3,"1,680,000",12.8 LPA,AgriTech Labs,Early-stage,"MongoDB, AWS, Node.js, SQL, Spring Boot, Sketch",Outer Ring Road,Tier-2,2024,WFH
+BLR0702,FullStack,1,14.2,10.1 LPA,Wipro,MNC,"Spring Boot, Tableau, Sketch, Microservices, NumPy, PowerBI, Redis",Electronic City,T3,2023,Work from Office
+BLR0607,FullStack,3,16.8 LPA,,DataMint,Early-stage,"Azure, Figma, MongoDB, React, PostgreSQL, Pandas",Outer Ring Road,Tier 3,2024,Onsite
+BLR0083,Business Analyst,10,35.4 LPA,22.2 LPA,Chargebee,Mid-size,"MongoDB, SQL, PowerBI, Pandas",HSR Layout,Tier-2,2022,Hybrid (3 days)
+BLR0949,SRE,6,34.1 LPA,27.2 LPA,IBM,MNC,"Tableau, React, JavaScript, JIRA, Java, Kubernetes",Electronic City,2,2021,Onsite
+BLR0860,DevOps Engineer,1,17.5,11.7 LPA,Swiggy,UNICORN,"ML, Kafka, Python",,Tier-2,2024,WFH
+BLR0430,DevOps Engineer,2,₹19.5 LPA,15.1,PhonePe,Unicorn,"Azure, AWS, Kafka, Agile, SQL, MongoDB",Bellandur,T3,2024,Hybrid
+BLR0922,Backend Dev,1,15.7 LPA,11.2,IBM,MNC,"PyTorch, PostgreSQL, GCP, Figma, Kubernetes, JIRA, ML",HSR Layout,3,2024,Work from Office
+BLR0091,Infra Engineer,1,"1,190,000",8.7 LPA,FinNova,Early-stage,"ML, TensorFlow, Spring Boot, Tableau, Pandas, PostgreSQL, Figma",Jayanagar,T3,2024,Work from Office
+BLR0283,SDE FS,7,34.0 LPA,22.0,Zoho,Mid-size,"Kafka, Spring Boot, Sketch, Microservices",Koramangala,Tier 1,2024,Hybrid
+BLR0647,Data Science Engineer,6,46.2,28.5,Ola,Unicorn,"JavaScript, Node.js, Deep Learning, Tableau",MG Road,Tier 2,2024,Hybrid (3 days)
+BLR0479,SDE Frontend,0,"770,000",,Postman,mid-size,"Pandas, JIRA, Microservices",HSR Layout,T3,2024,Remote
+BLR0663,Business Systems Analyst,8,37.0 LPA,27.8 LPA,Microsoft India,MNC,"PostgreSQL, GCP, NumPy, TensorFlow, Node.js, Sketch",Whitefield,Tier 1,2021,Onsite
+BLR0909,Frontend Dev,3,28.1,23.4,Meesho,Unicorn,"Docker, GCP, Figma, Deep Learning",HSR Layout,Tier-3,2023,Hybrid
+BLR0189,UI Designer,1,12.1,9.1,Zoho,Mid-size,"NumPy, GCP, Deep Learning",MG Road,Tier-2,2024,Remote
+BLR0579,Data Scientist,0,11.7 LPA,,Hasura,Mid-size,"Figma, Microservices, Pandas, Kafka",Sarjapur,Tier 2,2024,Work from Office
+BLR0348,Product Designer,6,31.8 LPA,26.7 LPA,Google India,MNC,"Sketch, Microservices, Agile, Kubernetes, System Design",Whitefield,Tier-3,2023,Work from Office
+BLR0900,Data Analyst,3,14.9 LPA,11.9 LPA,Postman,Mid-size,"Microservices, Figma, Sketch, Docker, TensorFlow, PyTorch, PowerBI",Outer Ring Road,Tier 3,2023,Remote
+BLR0676,Data Science Engineer,4,"2,900,000",20.7,HCL,MNC,"SQL, Kafka, Figma",Bellandur,Tier-2,2021,Hybrid (3 days)
+BLR0520,Product Designer,3,15.0,10.6 LPA,QuickPay AI,Early-stage,"Agile, System Design, Kafka, GCP",Marathahalli,Tier-3,2024,Hybrid (3 days)
+BLR0529,SRE,1,15.5,,Infosys,MNC,"PyTorch, PowerBI, JIRA, Spring Boot, TensorFlow, MongoDB, Deep Learning",Jayanagar,2,2024,Remote
+BLR0929,SDE Backend,3,28.9 LPA,23.2,Unacademy,Unicorn,"Redis, PyTorch, AWS",Sarjapur,Tier 1,2021,WFH
+BLR0164,BA,4,22.6 LPA,,Chargebee,Mid-size,"ML, Spring Boot, TensorFlow, Docker",Bellandur,T2,2024,Hybrid (3 days)
+BLR0969,SDE Full-Stack,5,₹51.7 LPA,,PhonePe,Unicorn,"GCP, Kafka, Tableau, Deep Learning, PowerBI",Indiranagar,T1,2020,Hybrid
+BLR0677,SDE Full-Stack,6,46.6,35.3,Cred,Unicorn,"Sketch, Kubernetes, React, SQL, Agile, Azure",Whitefield,2,2020,Remote
+BLR0990,Analytics Engineer,5,22.9 LPA,18.9,SaasGo,EARLY-STAGE,"Spring Boot, JavaScript, Deep Learning, ML",Whitefield,Tier 3,2021,WFH
+BLR0771,Site Reliability Engineer,2,"1,700,000",14.1,IBM,MNC,"JavaScript, Tableau, Python, Kubernetes",Indiranagar,T2,2023,Remote
+BLR0975,Frontend Engineer,5,20.5 LPA,12.3 LPA,QuickPay AI,Early-stage,"GCP, Tableau, PowerBI",Indiranagar,T2,2022,Onsite
+BLR0540,DevOps,1,16.4 LPA,13.2 LPA,BYJU'S,Unicorn,"Docker, MongoDB, Spring Boot, Excel, Kafka, PyTorch, PowerBI",Indiranagar,Tier-2,2023,Hybrid (3 days)
+BLR0307,Business Systems Analyst,12,52.2 LPA,32.4,Infosys,MNC,"React, Python, GCP, Redis, Microservices",HSR Layout,Tier 2,2024,Onsite
+BLR0304,Designer,2,17.2,11.8 LPA,Unacademy,Unicorn,"Excel, MongoDB, Agile, Java",Electronic City,2,2023,WFH
+BLR0789,Product Lead,0,21.9 LPA,,Unacademy,Unicorn,"Docker, NumPy, PowerBI, GCP",HSR Layout,Tier-2,2024,Remote
+BLR0927,Backend Engineer,6,24.5 LPA,,BrowserStack,Mid-size,"JavaScript, Agile, Tableau, Kafka, Excel, SQL",Sarjapur,Tier-2,2020,Hybrid
+BLR0179,SRE,2,23.3 LPA,19.5 LPA,Microsoft India,MNC,"Kafka, PostgreSQL, System Design, Python, JavaScript, Microservices, ML",Whitefield,T3,2022,Work from Office
+BLR0564,SDE Backend,1,16.5,10.5 LPA,IBM,MNC,"Microservices, PostgreSQL, Kubernetes, Tableau, PyTorch, System Design, Agile",Bellandur,3,2024,Remote
+BLR0917,Fullstack Dev,1,12.4,9.3,HCL,mnc,"JIRA, Spring Boot, Redis, NumPy, Pandas",Bellandur,T3,2024,Remote
+BLR0971,Data Science Engineer,7,54.7 LPA,34.4,BYJU'S,Unicorn,"Docker, PowerBI, AWS",Marathahalli,Tier-2,2023,WFH
+BLR0170,SDE Backend,5,31.8,22.0 LPA,AgriTech Labs,Early-stage,"Tableau, AWS, System Design, Microservices, PyTorch, Kubernetes, ML",MG Road,Tier-3,2024,Remote
+BLR0542,UX Designer,12,₹63.3 LPA,46.7 LPA,Google India,MNC,"Agile, Figma, JavaScript, Sketch, Deep Learning, AWS, Redis",Bellandur,T2,2023,Onsite
+BLR0154,SDE-Backend,2,₹14.2 LPA,9.3 LPA,Postman,Mid-size,"PowerBI, Tableau, ML, Sketch, Node.js, GCP",Electronic City,2,2024,Hybrid (3 days)
+BLR0412,Full Stack Engineer,2,18.5 LPA,14.2 LPA,Cognizant,MNC,"JavaScript, AWS, Docker, SQL",Marathahalli,2,2023,Hybrid (3 days)
+BLR0164,BA,4,22.6 LPA,,Chargebee,Mid-size,"ML, Spring Boot, TensorFlow, Docker",Bellandur,T2,2024,Hybrid (3 days)
+BLR0466,Backend Developer,6,29.9,25.3 LPA,Infosys,MNC,"Microservices, Docker, Kafka, Azure, NumPy, Sketch, Node.js",Marathahalli,Tier 3,2021,Remote
+BLR0068,Backend Dev,2,16.1,10.7 LPA,Postman,Mid-size,"NumPy, ML, Java",Sarjapur,Tier 2,2024,Hybrid (3 days)
+BLR0972,Data Scientist,3,"1,939,999",13.9 LPA,TechCrush Labs,Early-stage,"GCP, SQL, Node.js, Sketch, ML",Outer Ring Road,2,2021,Hybrid
+BLR0531,Business Analyst,1,"1,400,000",,Swiggy,Unicorn,"Docker, Java, Node.js, Azure",Marathahalli,T2,2024,Work from Office
+BLR0033,SDE-Frontend,4,"1,960,000",14.0,TCS,MNC,"Tableau, Java, Node.js, Python",Sarjapur,Tier-2,2022,Work from Office
+BLR0553,Product Designer,0,"1,090,000",,Zomato,Unicorn,"NumPy, Docker, SQL, AWS",Outer Ring Road,Tier-2,2024,Hybrid
+BLR0645,UI/UX,2,24.1 LPA,17.9,Meesho,Unicorn,"Java, Agile, JIRA, GCP, Microservices, ML",Jayanagar,T2,2023,Onsite
+BLR0526,ML Engineer,6,38.9 LPA,32.9 LPA,Chargebee,Mid-size,"Docker, SQL, Deep Learning, Spring Boot",Marathahalli,2,2021,Onsite
+BLR0032,Frontend Developer,3,17.3 LPA,12.3 LPA,BrowserStack,mid-size,"Redis, PowerBI, Agile, Docker",Bellandur,Tier-2,2021,Remote
+BLR0720,FullStack,0,8.9,,DataMint,early-stage,"PostgreSQL, AWS, GCP, Sketch",Marathahalli,Tier-1,2024,WFH
+BLR0050,DevOps,1,17.5 LPA,14.3,Meesho,Unicorn,"Pandas, PyTorch, PostgreSQL",Whitefield,Tier-2,2023,Remote
+BLR0457,Business Analyst,1,11.0,7.5,TechCrush Labs,Early-stage,"SQL, Kubernetes, System Design, Python, Java, Pandas, JavaScript",Marathahalli,2,2023,WFH
+BLR0044,Backend Dev,5,25.9,18.4,SaasGo,Early-stage,"Excel, Redis, ML, Azure",Electronic City,T2,2023,Onsite
+BLR0306,Full Stack Engineer,1,15.7,9.9 LPA,Zoho,Mid-size,"Kubernetes, Figma, Kafka, Java, System Design, AWS",Electronic City,2,2024,WFH
+BLR0646,Product Designer,3,"1,160,000",8.9,AgriTech Labs,Early-stage,"JavaScript, Tableau, SQL, Azure, AWS, React",Indiranagar,Tier-3,2024,Onsite
+BLR0423,FullStack,0,"1,370,000",,Swiggy,Unicorn,"AWS, PowerBI, Pandas, Agile",Outer Ring Road,Tier 2,2024,WFH
+BLR0160,SDE Backend,3,20.3 LPA,,Wipro,MNC,"Pandas, Redis, PostgreSQL, Java",Whitefield,Tier-2,2023,Onsite
+BLR0958,SDE-Frontend,3,16.2 LPA,10.6 LPA,SaasGo,Early-stage,"Java, Kubernetes, SQL, MongoDB",Indiranagar,2,2022,Onsite
+BLR0931,Fullstack Dev,1,"1,450,000",10.4 LPA,Freshworks,MID-SIZE,"AWS, JIRA, PowerBI, GCP",Indiranagar,Tier 1,2024,WFH
+BLR0488,DevOps Engineer,3,"2,210,000",14.8 LPA,Cognizant,MNC,"Figma, System Design, Azure, NumPy, Sketch",Jayanagar,Tier 2,2023,Hybrid
+BLR0118,Business Analyst,1,10.0 LPA,8.1 LPA,Chargebee,Mid-size,"SQL, GCP, Azure, Tableau, Docker",Marathahalli,Tier-2,2024,Work from Office
+BLR0048,Business Analyst,8,44.9 LPA,34.1,TechCrush Labs,Early-stage,"Tableau, Sketch, System Design, ML, SQL",MG Road,Tier 1,2024,Hybrid
+BLR0965,Backend Developer,2,18.9 LPA,15.6 LPA,Infosys,MNC,"Microservices, AWS, React, Pandas, Java, Spring Boot",Bellandur,Tier-2,2022,Remote
+BLR0460,UI Designer,1,11.3 LPA,9.2,Amazon India,MNC,"PostgreSQL, MongoDB, Pandas, Azure, Java",Whitefield,Tier 2,2024,Hybrid
+BLR0205,PM,4,44.2 LPA,33.2,Cred,Unicorn,"PyTorch, MongoDB, Kubernetes",Electronic City,2,2020,Onsite
+BLR0002,Full Stack Engineer,8,46.3,34.9,TCS,MNC,"Figma, ML, Excel, GCP, Redis",Outer Ring Road,Tier 2,2020,Remote
+BLR0337,PM,5,"3,620,000",26.8,SaasGo,Early-stage,"JavaScript, SQL, PostgreSQL, System Design, Agile",MG Road,Tier 2,2020,Onsite
+BLR0096,DS,5,₹28.6 LPA,20.1 LPA,Postman,Mid-size,"Azure, Kafka, JIRA, MongoDB, PowerBI",Indiranagar,2,2020,Hybrid (3 days)
+BLR0524,Infra Engineer,0,10.0 LPA,,MoEngage,Mid-size,"Java, AWS, Kafka",HSR Layout,1,2024,Hybrid
+BLR0670,SDE FS,1,11.5 LPA,8.3,Postman,Mid-size,"JIRA, JavaScript, Spring Boot, Tableau",Whitefield,Tier-2,2024,WFH
+BLR0871,ML Engineer,0,"1,120,000",,Cognizant,MNC,"Node.js, Kafka, Tableau, Excel",Indiranagar,2,2024,Work from Office
+BLR0146,SDE Frontend,2,12.8 LPA,10.8 LPA,DataMint,Early-stage,"Agile, Sketch, Java, Kubernetes, Excel, Kafka, Pandas",Jayanagar,T2,2022,Onsite
+BLR0674,UI/UX,3,17.3,11.4,IBM,mnc,"Microservices, Node.js, Spring Boot, Pandas, Redis",MG Road,3,2022,Hybrid
+BLR0741,Infra Engineer,3,25.7 LPA,17.7,Capgemini,mnc,"Kubernetes, Microservices, NumPy, Python, Deep Learning, System Design, Node.js",Koramangala,3,2021,Hybrid (3 days)
+BLR0595,Infra Engineer,3,21.9,14.9 LPA,Hasura,Mid-size,"System Design, AWS, Docker, Kubernetes, React, PyTorch, PostgreSQL",Electronic City,Tier-3,2021,Hybrid (3 days)
+BLR0791,Product Lead,5,31.1,19.9 LPA,DataMint,Early-stage,"Spring Boot, Docker, SQL, JavaScript, Deep Learning",Indiranagar,2,2023,WFH
+BLR0259,BI Analyst,0,7.0 LPA,,IBM,MNC,"GCP, Agile, Figma, JIRA, Python, MongoDB, JavaScript",Jayanagar,T3,2024,Remote
+BLR0872,SDE FS,5,39.8,28.1 LPA,Flipkart,UNICORN,,HSR Layout,Tier-1,2024,Hybrid
+BLR0667,Frontend Developer,5,27.0 LPA,18.1 LPA,Google India,mnc,"MongoDB, Agile, PowerBI, NumPy, Java, React, Deep Learning",Indiranagar,3,2024,Hybrid
+BLR0389,Product Manager,0,22.8,,PhonePe,Unicorn,"ML, PyTorch, Excel, Microservices",,Tier-2,2024,Onsite
+BLR0106,Frontend Engineer,4,21.8,,Hasura,Mid-size,"Python, System Design, GCP, Redis, PyTorch",MG Road,Tier-2,2020,Hybrid (3 days)
+BLR0054,Data Science Engineer,6,30.0 LPA,22.9 LPA,QuickPay AI,Early-stage,"Python, Excel, Microservices, Kafka, Spring Boot, GCP, Agile",Jayanagar,3,2024,Hybrid
+BLR0777,UI Designer,3,"1,410,000",11.9,EdMint,Early-stage,"Sketch, JavaScript, Java, PyTorch",Indiranagar,3,2022,Hybrid
+BLR0774,BI Analyst,7,33.1 LPA,23.0 LPA,Microsoft India,MNC,"System Design, Azure, Agile, Java, AWS, PyTorch",Whitefield,Tier-2,2023,WFH
+BLR0885,Frontend Dev,2,14.1 LPA,9.6,Freshworks,Mid-size,"PostgreSQL, React, Kafka, Microservices, Python",Electronic City,Tier-2,2023,WFH
+BLR0594,UX Designer,5,₹20.7 LPA,17.1,AgriTech Labs,Early-stage,"Azure, ML, React, Agile, Kafka",Jayanagar,Tier 3,2020,Remote
+BLR0541,Sr PM,2,28.1 LPA,21.2,Hasura,Mid-size,"Tableau, ML, Java, AWS, MongoDB, NumPy",Whitefield,2,2023,Onsite
+BLR0661,DA,3,16.8 LPA,10.3 LPA,Hasura,Mid-size,"React, Tableau, JIRA, Node.js",Indiranagar,T1,2024,Hybrid
+BLR0352,BI Analyst,0,7.2,,Walmart Labs,MNC,"Figma, Agile, Kubernetes",MG Road,3,2024,Remote
+BLR0117,Product Manager,3,₹31.6 LPA,20.5 LPA,Amazon India,MNC,"Tableau, Node.js, Pandas, Docker",Marathahalli,Tier-2,2021,WFH
+BLR0925,BE,4,19.4 LPA,12.8,Wipro,mnc,"Java, Python, SQL, Spring Boot, Pandas",Marathahalli,3,2024,Hybrid (3 days)
+BLR0228,UX Designer,4,18.0,12.9,AgriTech Labs,Early-stage,"Deep Learning, PowerBI, Sketch",Electronic City,T1,2024,Hybrid (3 days)
+BLR0680,PM,3,25.3,18.6,QuickPay AI,Early-stage,"Kafka, Sketch, Tableau, TensorFlow, Python, NumPy, MongoDB",HSR Layout,2,2024,Work from Office
+BLR0278,Business Systems Analyst,4,₹15.8 LPA,9.7,TechCrush Labs,Early-stage,"NumPy, SQL, Docker, TensorFlow, PostgreSQL",Outer Ring Road,T3,2022,WFH
+BLR0657,Product Designer,1,"1,120,000",7.2 LPA,MoEngage,Mid-size,"Kubernetes, Agile, Python, Pandas, NumPy, Excel, Deep Learning",HSR Layout,2,2024,Onsite
+BLR0386,FE,2,19.9 LPA,,IBM,MNC,"Node.js, ML, Spring Boot, React",MG Road,Tier 1,2024,Onsite
+BLR0650,SRE,6,34.0,,Amazon India,MNC,"Spring Boot, Tableau, Microservices, Excel, Figma, Sketch, PowerBI",Electronic City,Tier-2,2022,Work from Office
+BLR0396,Site Reliability Engineer,4,"1,530,000",9.4,QuickPay AI,Early-stage,"NumPy, MongoDB, Docker",Indiranagar,Tier-3,2022,Work from Office
+BLR0006,Product Designer,5,23.6,15.1,IBM,MNC,"Python, MongoDB, Sketch, JIRA, GCP, NumPy",Jayanagar,Tier 2,2020,Remote
+BLR0881,SDE FS,5,39.7 LPA,25.1,IBM,MNC,"Pandas, Kubernetes, Redis, Node.js, Figma, ML",Indiranagar,Tier 1,2020,Hybrid
+BLR0515,Frontend Developer,1,16.4 LPA,11.6 LPA,PhonePe,Unicorn,"AWS, PyTorch, Figma, JavaScript",Electronic City,T2,2024,Hybrid (3 days)
+BLR0483,Sr PM,0,₹16.1 LPA,,SaasGo,early-stage,"Azure, Figma, NumPy, Excel, Sketch, Docker, Deep Learning",HSR Layout,Tier 2,2024,Onsite
+BLR0425,SDE Backend,8,46.0 LPA,30.7,BYJU'S,Unicorn,"AWS, React, Pandas",Outer Ring Road,T3,2024,Work from Office
+BLR0115,Full Stack Engineer,4,30.8 LPA,25.2 LPA,Infosys,MNC,,Outer Ring Road,2,2022,Onsite
+BLR0952,UX Designer,0,7.7 LPA,,FinNova,EARLY-STAGE,"Deep Learning, SQL, JIRA, AWS, Node.js, Sketch, Spring Boot",Marathahalli,Tier 2,2024,Remote
+BLR0743,SDE FS,5,20.9 LPA,14.3,QuickPay AI,Early-stage,"Figma, Agile, AWS, Tableau",Marathahalli,Tier 3,2022,Hybrid
+BLR0478,Site Reliability Engineer,5,"3,270,000",20.7 LPA,Zoho,Mid-size,"JIRA, Deep Learning, Java, Kafka, System Design",Bellandur,T3,2020,WFH
+BLR0078,BI Analyst,0,10.5 LPA,,Ola,Unicorn,"AWS, Kubernetes, Excel, React, JIRA, Spring Boot",Marathahalli,3,2024,Remote
+BLR0759,Business Systems Analyst,6,31.8 LPA,26.4,MoEngage,Mid-size,"Figma, PowerBI, PyTorch, ML, Microservices, AWS, Spring Boot",Electronic City,3,2024,Onsite
+BLR0842,ML Engineer,10,60.2 LPA,40.4 LPA,Microsoft India,MNC,"Deep Learning, JIRA, MongoDB, Excel, PostgreSQL",Bellandur,Tier 3,2024,Onsite
+BLR0695,SDE-Backend,4,27.3 LPA,16.8,Google India,MNC,"JavaScript, GCP, MongoDB, ML",Electronic City,2,2024,Onsite
+BLR0711,BI Analyst,2,"2,089,999",17.7 LPA,Meesho,Unicorn,"ML, MongoDB, Figma, NumPy",Koramangala,1,2023,Onsite
+BLR0893,FE,6,27.9 LPA,19.2 LPA,TCS,MNC,"Excel, PyTorch, TensorFlow, JavaScript, JIRA, NumPy",Indiranagar,Tier-2,2024,Hybrid (3 days)
+BLR0802,SDE FS,6,23.6 LPA,16.9 LPA,AgriTech Labs,Early-stage,"Node.js, React, JavaScript, SQL",Jayanagar,T1,2024,Hybrid (3 days)
+BLR0151,SDE Frontend,3,27.9,19.5 LPA,Cred,Unicorn,"Sketch, TensorFlow, GCP, Deep Learning, System Design",Whitefield,Tier 2,2022,Hybrid (3 days)
+BLR0715,Data Scientist,7,₹32.1 LPA,25.5,AgriTech Labs,early-stage,"JIRA, PostgreSQL, Excel",Whitefield,2,2020,Hybrid
+BLR0056,Business Systems Analyst,4,25.3,16.0,Meesho,Unicorn,"Python, AWS, Docker",Sarjapur,3,2023,Onsite
+BLR0832,Data Analyst,4,15.9 LPA,,DataMint,Early-stage,"Node.js, Python, SQL, Agile, Tableau, AWS",Electronic City,T2,2022,Hybrid (3 days)
+BLR0252,Frontend Dev,4,24.9 LPA,15.8,TCS,MNC,"Docker, Agile, Deep Learning, Java",Sarjapur,Tier-2,2024,Hybrid
+BLR0806,Product Designer,1,12.5 LPA,9.3,Hasura,Mid-size,"Pandas, SQL, NumPy, Excel, Python, ML, PostgreSQL",Marathahalli,Tier-1,2024,Remote
+BLR0675,BA,5,31.1,22.0 LPA,Flipkart,Unicorn,"React, JavaScript, PyTorch",Electronic City,3,2020,Hybrid (3 days)
+BLR0285,SDE FS,5,21.4 LPA,16.0 LPA,SaasGo,Early-stage,"Sketch, SQL, React, Microservices, Tableau, JavaScript",Outer Ring Road,T2,2022,Work from Office
+BLR0795,SDE Full-Stack,4,24.7 LPA,19.4,Postman,Mid-size,"ML, Redis, PostgreSQL, Agile, GCP",MG Road,Tier-2,2024,Hybrid
+BLR0761,Data Science Engineer,2,16.1 LPA,12.6 LPA,EdMint,Early-stage,"Kafka, AWS, Python, PowerBI, TensorFlow, Pandas, Java",Sarjapur,Tier 2,2024,Hybrid (3 days)
+BLR0525,Backend Engineer,2,14.8,11.7,Cognizant,MNC,"PowerBI, JIRA, PyTorch",Marathahalli,T3,2024,Remote
+BLR0935,Designer,2,12.7,9.4,AgriTech Labs,EARLY-STAGE,"Redis, Kubernetes, Azure, GCP",Indiranagar,2,2023,Hybrid
+BLR0575,SDE FS,6,37.9 LPA,29.5,Google India,MNC,"Spring Boot, Agile, NumPy, Node.js",MG Road,T1,2020,Onsite
+BLR0238,SDE Full-Stack,7,26.2,16.2,TechCrush Labs,Early-stage,"Python, PyTorch, Pandas, Figma, Tableau",Electronic City,Tier-2,2023,Work from Office
+BLR0279,Site Reliability Engineer,4,"2,270,000",18.6,Wipro,MNC,"Tableau, Spring Boot, PostgreSQL",Electronic City,T3,2023,Work from Office
+BLR0167,Frontend Developer,7,₹39.4 LPA,24.3,Microsoft India,MNC,"Excel, Deep Learning, PostgreSQL, ML",Sarjapur,T3,2024,Work from Office
+BLR0544,Frontend Developer,4,₹22.2 LPA,14.7,HCL,MNC,"Excel, Azure, React",Koramangala,Tier 2,2021,Remote
+BLR0622,Product Designer,3,19.0 LPA,11.9,Accenture,MNC,"Redis, System Design, PowerBI, JIRA, Azure",Marathahalli,T2,2022,WFH
+BLR0265,SDE Backend,0,11.7,,Chargebee,Mid-size,"React, System Design, JIRA, Python, SQL, Microservices",HSR Layout,1,2024,Hybrid (3 days)
+BLR0377,UI Designer,1,10.8 LPA,,EdMint,Early-stage,"Microservices, JIRA, PostgreSQL, Spring Boot, React, Kubernetes",Sarjapur,3,2023,Hybrid (3 days)
+BLR0003,ML Engineer,12,64.5 LPA,47.3 LPA,QuickPay AI,EARLY-STAGE,"PyTorch, System Design, Kafka, ML, Node.js",Sarjapur,2,2021,Hybrid (3 days)
+BLR0195,Product Manager,2,25.4,16.6 LPA,MoEngage,Mid-size,"Tableau, Pandas, GCP, Docker, PowerBI, ML, PostgreSQL",Bellandur,Tier 3,2023,Hybrid (3 days)
+BLR0450,Sr PM,4,31.9 LPA,22.3 LPA,Wipro,MNC,"Figma, JavaScript, JIRA, PyTorch, Excel, Sketch, Redis",Marathahalli,T2,2024,Hybrid (3 days)
+BLR0552,Infra Engineer,0,9.2 LPA,,Hasura,Mid-size,"Figma, Java, Redis, SQL, PyTorch, PowerBI, NumPy",Bellandur,T2,2024,Onsite
+BLR0840,Sr PM,1,20.8 LPA,17.4,Chargebee,Mid-size,"MongoDB, Agile, Docker, PyTorch",MG Road,1,2024,Remote
+BLR0349,BA,7,"3,679,999",25.4 LPA,MoEngage,Mid-size,"PostgreSQL, Deep Learning, Tableau, Java, Redis, System Design",Koramangala,Tier-2,2024,Hybrid
+BLR0632,Backend Dev,0,"1,650,000",,Cred,Unicorn,"PyTorch, Deep Learning, MongoDB, PowerBI, Agile",HSR Layout,T1,2024,Hybrid (3 days)
+BLR0066,Sr PM,1,20.2,15.7 LPA,SaasGo,Early-stage,"JIRA, JavaScript, Kafka, Spring Boot, System Design",Whitefield,Tier 1,2024,Onsite
+BLR0184,DA,1,12.8,8.6 LPA,Hasura,Mid-size,"PyTorch, System Design, Tableau, Java, Docker, Microservices, Figma",Marathahalli,Tier-1,2024,Onsite
+BLR0614,SDE-Frontend,4,19.1 LPA,14.7 LPA,FinNova,Early-stage,"Redis, Microservices, JavaScript, Excel, SQL",Sarjapur,Tier 1,2024,Work from Office
+BLR0390,BE,2,₹19.3 LPA,15.4,Microsoft India,MNC,"Redis, Java, ML, TensorFlow, Pandas, Microservices, Spring Boot",Outer Ring Road,3,2024,Onsite
+BLR0028,FullStack,1,"1,210,000",9.3 LPA,Walmart Labs,MNC,"PostgreSQL, Pandas, PyTorch, TensorFlow, Kafka, MongoDB, PowerBI",Indiranagar,Tier 3,2023,WFH
+BLR0461,BE,1,"1,160,000",7.3,DataMint,Early-stage,"AWS, Kafka, PowerBI, PostgreSQL, NumPy",Bellandur,2,2023,Work from Office
+BLR0429,Product Lead,3,34.1 LPA,20.6,Amazon India,MNC,"Deep Learning, Java, PowerBI, Spring Boot",Whitefield,T2,2023,Onsite
+BLR0997,Product Lead,0,12.0,,DataMint,Early-stage,"GCP, JIRA, TensorFlow, PowerBI, NumPy, Azure",Indiranagar,Tier-2,2024,Hybrid
+BLR0580,Site Reliability Engineer,4,"2,220,000",16.4,Cognizant,mnc,"Spring Boot, Redis, Pandas",Sarjapur,Tier-2,2021,WFH
+BLR0794,PM,1,29.2,23.5 LPA,Swiggy,unicorn,"GCP, Azure, MongoDB, PostgreSQL, Pandas, Kubernetes, JIRA",Indiranagar,Tier-2,2023,Onsite
+BLR0368,Product Lead,1,26.6,16.4,Google India,MNC,"JavaScript, Kubernetes, PowerBI, PyTorch, System Design, Docker",Electronic City,T1,2023,Hybrid (3 days)
+BLR0290,Site Reliability Engineer,6,50.5 LPA,,Swiggy,unicorn,"TensorFlow, System Design, JIRA, Agile, ML",Koramangala,Tier 2,2023,Hybrid (3 days)
+BLR0116,Business Systems Analyst,10,47.1,31.1 LPA,HCL,MNC,"JavaScript, ML, JIRA, Figma, PyTorch, Excel, Node.js",Jayanagar,3,2022,WFH
+BLR0020,Frontend Engineer,3,"2,120,000",17.4,Zoho,mid-size,"Microservices, Docker, Azure, Redis",MG Road,T1,2021,Hybrid
+BLR0709,DS,2,"1,370,000",11.2 LPA,EdMint,Early-stage,"Redis, Python, PostgreSQL, Excel, System Design",Jayanagar,T3,2022,Work from Office
+BLR0616,Fullstack Dev,5,₹33.4 LPA,26.3 LPA,HCL,MNC,"Docker, Excel, TensorFlow, NumPy, System Design, Agile, AWS",Whitefield,T3,2024,Work from Office
+BLR0656,Data Science Engineer,1,"1,450,000",10.3 LPA,Wipro,MNC,"GCP, JavaScript, Python, Azure",HSR Layout,Tier-2,2023,Remote
+BLR0984,Site Reliability Engineer,5,₹31.2 LPA,21.2 LPA,HCL,MNC,"MongoDB, NumPy, GCP",Jayanagar,T1,2020,Hybrid
+BLR0310,BE,7,₹44.5 LPA,37.6 LPA,Zoho,Mid-size,"System Design, Agile, Spring Boot, ML, Sketch",MG Road,T1,2024,Onsite
+BLR0335,Product Designer,2,13.6 LPA,10.8,AgriTech Labs,Early-stage,"MongoDB, Kubernetes, JIRA, ML, Python",Sarjapur,T3,2022,WFH
+BLR0244,Site Reliability Engineer,5,33.6 LPA,22.5 LPA,Capgemini,mnc,,Indiranagar,2,2021,Work from Office
+BLR0790,Site Reliability Engineer,2,24.8 LPA,18.7 LPA,Cred,Unicorn,"Pandas, PostgreSQL, PyTorch, Kubernetes, Tableau",Koramangala,2,2024,Onsite
+BLR0691,Sr PM,2,"2,950,000",24.8 LPA,Freshworks,Mid-size,"System Design, Excel, Pandas, Python, JavaScript",MG Road,1,2022,Hybrid (3 days)
+BLR0090,DevOps Engineer,0,9.8 LPA,,Amazon India,MNC,"Docker, PowerBI, MongoDB, Python, GCP",Sarjapur,Tier 2,2024,Onsite
+BLR0906,Analytics Engineer,3,13.4,9.0,BrowserStack,Mid-size,"Docker, PyTorch, Figma, NumPy",Electronic City,3,2021,Work from Office
+BLR0241,Data Scientist,1,13.7 LPA,10.4,BrowserStack,Mid-size,"Pandas, MongoDB, Spring Boot",Sarjapur,3,2023,WFH
+BLR0681,DevOps Engineer,3,19.4 LPA,13.7,Walmart Labs,MNC,"System Design, Azure, Agile, Pandas, Python",Electronic City,3,2022,Onsite
+BLR0977,Data Science Engineer,7,₹49.6 LPA,,Postman,mid-size,"Python, ML, PowerBI, MongoDB, Figma, Tableau, System Design",HSR Layout,1,2022,Onsite
+BLR0704,DS,1,"1,860,000",,Unacademy,Unicorn,"Azure, Tableau, Java",MG Road,2,2023,Hybrid
+BLR0549,Data Analyst,1,10.8 LPA,8.8 LPA,Cognizant,MNC,"Agile, Spring Boot, Node.js, PowerBI, System Design",MG Road,3,2024,Work from Office
+BLR0606,SRE,1,17.9,10.8 LPA,Zomato,Unicorn,"Docker, Sketch, Kafka, PostgreSQL, Excel, TensorFlow",Sarjapur,T2,2024,Work from Office
+BLR0713,DS,6,38.3 LPA,32.3,Capgemini,MNC,"Excel, Kafka, Spring Boot, SQL, Microservices, Sketch",Electronic City,Tier 2,2023,Work from Office
+BLR0736,Product Lead,4,"3,010,000",19.1,FinNova,Early-stage,"Deep Learning, Figma, Agile",Sarjapur,T3,2023,Onsite
+BLR0212,Frontend Engineer,2,"1,440,000",11.7,BrowserStack,mid-size,"React, Python, Pandas",HSR Layout,Tier-2,2024,Remote
+BLR0031,ML Engineer,1,18.7 LPA,12.8,PhonePe,UNICORN,"SQL, Tableau, Docker",Marathahalli,Tier-1,2023,Remote
+BLR0162,Site Reliability Engineer,2,27.4 LPA,21.7,Meesho,unicorn,"MongoDB, React, AWS, Python",Sarjapur,1,2022,Remote
+BLR0299,FE,0,11.5,,Flipkart,Unicorn,"Excel, Microservices, Kubernetes, React, Docker, Agile",Jayanagar,Tier-3,2024,Onsite
+BLR0602,SDE-Frontend,1,15.8,11.9 LPA,Ola,unicorn,"Java, Kafka, Azure, Excel, NumPy, Docker",Indiranagar,1,2023,Remote
+BLR0415,DA,7,30.4 LPA,18.6 LPA,Microsoft India,MNC,"Deep Learning, TensorFlow, NumPy",Koramangala,T2,2022,Hybrid (3 days)
+BLR0176,Designer,5,"2,490,000",20.3,Postman,Mid-size,"Spring Boot, Microservices, SQL, JIRA, Deep Learning",Sarjapur,3,2021,Hybrid (3 days)
+BLR0269,Backend Engineer,6,₹38.3 LPA,26.1,Unacademy,Unicorn,"Java, Kafka, JIRA, JavaScript, Figma, Pandas, Excel",Koramangala,T2,2020,Hybrid
+BLR0626,Site Reliability Engineer,1,12.9 LPA,8.3,Chargebee,mid-size,"Kubernetes, PowerBI, PostgreSQL, SQL, Sketch",Koramangala,T3,2024,Onsite
+BLR0316,Site Reliability Engineer,4,₹26.1 LPA,20.5 LPA,BrowserStack,Mid-size,"GCP, Java, JavaScript, Tableau, SQL, Kafka, Kubernetes",HSR Layout,2,2022,Onsite
+BLR0851,Product Designer,10,50.7 LPA,,TCS,MNC,"PyTorch, SQL, NumPy, Node.js, Deep Learning, Excel, Pandas",Outer Ring Road,T1,2024,Onsite
+BLR0843,UI/UX,6,42.8 LPA,28.6 LPA,Meesho,Unicorn,"Redis, Agile, ML, PowerBI, Deep Learning",Electronic City,T3,2020,Hybrid
+BLR0434,DA,3,15.9 LPA,11.1 LPA,Freshworks,Mid-size,"PowerBI, SQL, Redis",Indiranagar,Tier 1,2021,Hybrid (3 days)
+BLR0547,Backend Developer,3,22.0 LPA,17.7,Zoho,Mid-size,"ML, Deep Learning, Spring Boot",Koramangala,Tier-2,2024,WFH
+BLR0007,Site Reliability Engineer,0,9.9,,QuickPay AI,Early-stage,"SQL, Azure, Sketch, PowerBI",Marathahalli,Tier-1,2024,Work from Office
+BLR0945,BE,7,₹26.4 LPA,17.0 LPA,AgriTech Labs,Early-stage,"MongoDB, TensorFlow, JIRA, PostgreSQL, Kubernetes, Azure",MG Road,3,2021,Hybrid (3 days)
+BLR0937,Product Lead,1,26.0 LPA,20.4 LPA,Flipkart,unicorn,"PowerBI, PostgreSQL, JIRA, Agile, Java, JavaScript, GCP",Marathahalli,Tier 3,2024,Hybrid
+BLR0756,Sr PM,4,44.5 LPA,34.8 LPA,BrowserStack,Mid-size,"Tableau, React, Azure, Node.js, Kubernetes, System Design, ML",HSR Layout,T2,2021,Onsite
+BLR0469,SRE,1,18.6 LPA,,Swiggy,Unicorn,"NumPy, Agile, Docker, Excel",Outer Ring Road,Tier-1,2023,Remote
+BLR0093,Backend Developer,2,23.2 LPA,14.7,Razorpay,Unicorn,"TensorFlow, ML, Spring Boot",HSR Layout,Tier 3,2022,Onsite
+BLR0475,SDE Frontend,1,8.7 LPA,7.1 LPA,EdMint,early-stage,"JavaScript, Pandas, Python, Kafka",Bellandur,Tier 2,2023,Remote
+BLR0239,Designer,0,9.7 LPA,,BYJU'S,unicorn,"Microservices, PowerBI, Kafka",Bellandur,Tier 2,2024,Work from Office
+BLR0824,Product Designer,2,17.6,12.4,Zoho,Mid-size,"React, SQL, ML, Deep Learning, Java",Jayanagar,Tier-2,2022,WFH
+BLR0792,Product Lead,4,₹40.2 LPA,26.6,HCL,MNC,"Excel, Java, Deep Learning, Python, JavaScript",Whitefield,Tier 2,2021,Work from Office
+BLR0209,BI Analyst,1,8.6 LPA,6.0 LPA,EdMint,Early-stage,"PyTorch, System Design, MongoDB, JIRA, PowerBI, TensorFlow, NumPy",,2,2024,Hybrid
+BLR0788,PM,2,27.6,17.4,Zomato,Unicorn,"Azure, Kafka, Excel",Bellandur,Tier-3,2023,Remote
+BLR0905,DA,4,₹20.3 LPA,15.4 LPA,Capgemini,MNC,"Deep Learning, JavaScript, NumPy",Marathahalli,Tier 2,2020,WFH
